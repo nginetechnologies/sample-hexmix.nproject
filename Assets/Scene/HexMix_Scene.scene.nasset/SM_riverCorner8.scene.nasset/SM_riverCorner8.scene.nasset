@@ -11,6 +11,12 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "M_Dirt-34"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "d550db30-0ad0-4d8b-9ba0-1b1236ff42ad"
+                    ]
                 }
             ],
             "children": [

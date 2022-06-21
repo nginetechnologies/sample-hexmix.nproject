@@ -11,6 +11,12 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "M_Wood-24"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "621fb6c6-8258-4e13-8943-445dbc47025d"
+                    ]
                 }
             ],
             "children": [
