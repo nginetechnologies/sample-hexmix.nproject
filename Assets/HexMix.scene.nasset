@@ -18,10 +18,10 @@
                 "position": [
                     3.2569,
                     4.0131,
-                    2.9938
+                    2.9937
                 ],
                 "rotation": [
-                    -45.0004,
+                    -44.9896,
                     0.0,
                     0.0
                 ]
@@ -44,8 +44,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -54,8 +54,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
@@ -64,12 +64,12 @@
             "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -25.1404,
+                    -25.1403,
                     55.686,
-                    11.3047
+                    11.3046
                 ],
                 "rotation": [
-                    -45.0004,
+                    -44.9896,
                     0.0,
                     0.0
                 ]
@@ -88,8 +88,9 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light",
+                    "flags": 2
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -98,9 +99,8 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light",
-                    "flags": 2
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
@@ -124,8 +124,8 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -134,57 +134,28 @@
                     ]
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 }
             ]
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "flags": 512
-            },
+            "instanceGuid": "07c72799-f64b-64cf-11fe-a7fcf2b4a6c8",
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "07c72799-f64b-64cf-11fe-a7fcf2b4a6c8"
+                }
+            ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
-                    "instanceGuid": "eb8ad008-2b92-7be8-aada-ba960e92a922",
-                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                        "flags": 1024
-                    },
+                    "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
                     "data_components": [
                         {
                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "19bedb3d-8271-7c3c-8fb4-0d9f60a8be82"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                            "instanceGuid": "a26b9162-8902-9921-79b2-8989707fed4f",
-                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "flags": 1024
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "4ceabb2c-7239-608f-247a-6e55d7ceb8fc"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                                    "instanceGuid": "6585244f-fa50-fc30-618e-96934b8289f6",
-                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                        "flags": 1024
-                                    },
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "02167873-946e-14ac-4aa2-179e835f1dfb"
-                                        }
-                                    ]
-                                }
-                            ]
+                            "templateInstanceGuid": "02167873-946e-14ac-4aa2-179e835f1dfb",
+                            "flags": 2
                         }
                     ]
                 }
@@ -196,14 +167,14 @@
     ],
     "default_camera": {
         "position": [
-            4.2387,
-            -7.2236,
-            13.091
+            1.9891,
+            2.0144,
+            4.1801
         ],
         "rotation": [
-            -89.0,
-            -0.0,
-            6.6936
+            -41.9257,
+            0.0,
+            123.1718
         ],
         "fieldOfView": 60.0,
         "nearPlane": 0.001,
@@ -211,14 +182,9 @@
     },
     "grid": {
         "position": [
-            6.2807,
-            0.0,
-            10.4724
-        ],
-        "scale": [
-            -1.0,
-            -1.0,
-            1.0
+            -0.8728,
+            -1.1023,
+            0.0
         ]
     }
 }
