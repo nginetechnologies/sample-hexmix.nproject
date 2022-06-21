@@ -13,8 +13,6 @@
     "library_directory": "lib",
     "thumbnail_guid": "45b5d266-77c0-439d-876b-ad35451715f6",
     "default_scene": "6bd2e87e-e7d1-4b0f-badf-b6f4253f70e2",
-    "repository": "https://github.com/nginetechnologies/ngine-samples/tree/master/HexMix.nproject",
-    "source": "HexMix.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
             "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
