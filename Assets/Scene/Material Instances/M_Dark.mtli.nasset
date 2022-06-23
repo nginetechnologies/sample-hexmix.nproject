@@ -1,11 +1,11 @@
 {
-    "guid": "2b9f046f-12f3-8079-528f-8ed6b8a2d30e",
+    "guid": "79a60353-f085-5347-458e-c1ce803b6952",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "material": "a897cdfa-a65f-4222-a5ab-d64df68c17b6",
     "push_constants": [
         {
             "type": 0,
-            "color": "#00000000"
+            "color": "#13"
         },
         {
             "type": 1,
