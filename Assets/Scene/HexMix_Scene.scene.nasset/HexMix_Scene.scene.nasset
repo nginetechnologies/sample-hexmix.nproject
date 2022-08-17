@@ -1,9 +1,9 @@
 {
-    "guid": "57f94414-8dd9-53b1-352b-4fe625d24252",
+    "guid": "2449f0a4-8777-184a-8e74-6004ed8f7f6f",
     "source": "../HexMix_Scene.fbx",
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "f1469800-ff62-660f-1393-438544c1200d",
+    "instanceGuid": "930c9969-a7ab-170e-b76b-159a6d2a5b79",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -13,465 +13,318 @@
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "fdc77bfd-61a8-de07-4f6b-4a0f04924a6f",
+            "instanceGuid": "c320690d-8359-e984-cb60-1afdf6d15ec3",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_River_Straight"
+                    "name": "River Straight"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "9b50ede4-db5a-f5cb-7578-a7a046f84f4d"
+                "scene": "c61baf5c-bc36-46be-8810-531eae8d10ed"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "20629cfc-ac7d-4668-f823-da45e4c4b578",
+            "instanceGuid": "383ab371-059b-2d3e-ee4b-b3d3758e5b01",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Water_Rocks"
+                    "name": "Water Rocks"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a309f04f-6da8-72af-7248-32309435dc50"
+                "scene": "21a867e3-55b7-a2ea-e93a-ac21e280f711"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f9759675-8529-0ccf-a470-f41cf3ee2580",
+            "instanceGuid": "4bb36b98-5e72-923e-84e0-fde2826354af",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Dock"
+                    "name": "Building Dock"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "791992ef-aac6-babf-8cd1-94ac5c49b6f5"
+                "scene": "93768fde-2141-2b96-cbea-a4b6d492a45d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a46e4b30-ba33-5435-7ab6-6921750075b4",
+            "instanceGuid": "b1b40a67-c439-5fd8-e32e-3e2b05f8f6cc",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Market"
+                    "name": "Building Market"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ef705fd0-783e-ea76-602a-a8c2fc2019bd"
+                "scene": "5e85c119-65fc-3d9c-26e9-e8632d866124"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a9e790c4-4d46-5351-0c24-e9f3c31505cd",
+            "instanceGuid": "ac0f1027-73aa-f094-4302-7dc5f558a439",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Farm"
+                    "name": "Building Farm"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c16a75bc-874a-34ca-724c-31213aa1b572"
+                "scene": "938d3a2d-a496-2d3c-2dff-728a906980be"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c07ddccb-a93d-f336-8d45-0e1a7da23f6c",
+            "instanceGuid": "4dde29cd-90d4-5c2e-3715-2d6188e40bf4",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Path_Straight"
+                    "name": "Path Straight"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "03285d4e-b4b4-a4be-0363-ea565a98e15f"
+                "scene": "0848a2e1-2abb-b2aa-4513-d1c36df51fcf"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4416eb78-8f6a-c355-afd1-aa9f9caae137",
+            "instanceGuid": "37c5b0ff-0f0e-3dfe-7842-d72992f2b6f5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Path_Intersection"
+                    "name": "Path Intersection"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "185aa8f8-d5ca-8180-7387-d14e38a4bd30"
+                "scene": "447e81e3-3f53-1a04-d5f7-afd2d597104d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "bdcb3307-32b2-6421-4e58-93acce9295f1",
+            "instanceGuid": "230a3421-0f94-d5ae-da5f-c0a2f936b814",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Cabin"
+                    "name": "Building Cabin"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4fbae171-0529-7b39-832a-6947f5787c64"
+                "scene": "5892a7f8-261b-4492-b997-e7c2866647e8"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "68ada67c-70f7-3971-e660-1e800960ca0a",
+            "instanceGuid": "fbb06429-6171-e402-5773-57aa05fd616a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Castle"
+                    "name": "Building Castle"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2eb4109-d50f-0c32-7b37-bdfb11a2576e"
+                "scene": "44ae41f7-712c-d50d-785e-b01ae05dc7f5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "88215364-4222-6a61-6e1a-223b8022802c",
+            "instanceGuid": "38d51842-12c3-63f0-3ebd-7f3a8da8299d",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Dirt_Lumber"
+                    "name": "Dirt Lumber"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d5f55270-eb88-7248-0aaf-28c24ca1b848"
+                "scene": "48bcf885-1f28-9c35-54d6-2d54dfc8b3e8"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4a6c5fc3-a3f4-6afc-6c8d-be1489ed3df3",
+            "instanceGuid": "9fe58d67-3ad7-c370-d2d0-f3a232b47885",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Water"
+                    "name": "Building Water"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "80db7b41-de15-f7da-1707-514ae76f9577"
+                "scene": "ea892b4b-df83-438c-a6f6-bf3fb0af1706"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b6efe874-c0a9-32b7-ce49-c91e9d10d15e",
+            "instanceGuid": "3d3be6c3-4683-dd20-4711-3e7a56e60081",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Mill"
+                    "name": "Building Mill"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "0c197018-bf0c-6220-589b-0c760e346eef"
+                "scene": "61b40e0b-50d9-b3f4-ea93-f38ef2ddcda8"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "236837c0-c409-400e-afdf-fdbf29f9b7e0",
+            "instanceGuid": "51472006-6a98-31f3-e2b6-2f0377df3792",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Tower"
+                    "name": "Building Tower"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "16a54f1b-807a-3ca1-edb7-c5f747dd267b"
+                "scene": "ec37210a-604a-b5a2-30a6-43d41fbdaa38"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "cce79bf7-a582-4cab-17e7-6c256a228a7b",
+            "instanceGuid": "519da240-c529-b277-a708-3fd729519095",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Mine"
+                    "name": "Building Mine"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "5d7b68dd-65f2-da7a-32dc-ca9d39bc611f"
+                "scene": "2fad4a3d-84b6-8db4-3a6e-381bd7cfe9b9"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8e461eec-9bb6-cbd3-bb8b-9d438dd5b681",
+            "instanceGuid": "27402d43-b28a-793e-a0b7-2b5860f7eba7",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Stone_Mountain"
+                    "name": "Stone Mountain"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "486717ac-3be8-3c8b-0e45-2bdae8a0cefc"
+                "scene": "d1d35d1a-24a9-9886-9e04-d7cfb38ec615"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "939b1ab0-47eb-9613-72b8-01ba3e64ed6b",
+            "instanceGuid": "6eec149a-bb35-aa6a-94b0-135dedb542a1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Sheep"
+                    "name": "Building Sheep"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ce025a4c-0891-7c2e-ee69-d41af7547813"
-            }
-        },
-        {
-            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-            "instanceGuid": "51bc936e-417d-6738-52f6-18d202131f6f",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Dirt"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
-                    "instanceGuid": "fe4d370d-6a25-ad68-ad5c-7cda0b17039e",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Physics Body"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                            "instanceGuid": "5b43669b-9d2e-d7a0-ae62-2dbff566e7c9",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Mesh Collider"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                                    "instanceGuid": "1c01a52d-6f89-8193-8def-d91f891ca18d",
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Mesh"
-                                        }
-                                    ],
-                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                        "stages": [
-                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                        ]
-                                    },
-                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                        "mesh": "74529491-89d5-4ded-44a8-bf96e6d15c4e",
-                                        "material_instance": "780a93a5-8796-20f5-36b3-897e64df0470"
-                                    }
-                                }
-                            ],
-                            "508647ca-01f3-4930-9e33-4562692b719f": {
-                                "mesh": "74529491-89d5-4ded-44a8-bf96e6d15c4e"
-                            },
-                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "fa7b8aa4-9b4b-d828-5eee-7f1476d76d5e",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Building_Village"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "11627e2c-c651-be39-8f42-d7c79e93462e"
+                "scene": "d3e0a425-7b25-0afe-8f28-952729823341"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b45f3868-d01a-8323-7096-584fa03d4538",
+            "instanceGuid": "8f7153f6-06a0-a3fc-56cf-53aa905a1e39",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Grass_Hill"
+                    "name": "Dirt"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "02b74e01-1ae1-23a3-cc12-ba5077878fa1"
-            }
-        },
-        {
-            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-            "instanceGuid": "20669c03-6275-81d0-a06e-eac77ea88374",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Boat"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
-                    "instanceGuid": "3da3fe05-d6d4-68f7-ea95-afa2590d7b04",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Physics Body"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                            "instanceGuid": "c804fe63-45b5-4e21-4488-f5a9e62968c4",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Mesh Collider"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                                    "instanceGuid": "d061ef90-d080-8129-c550-7794d5fd0ba6",
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Mesh"
-                                        }
-                                    ],
-                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                        "stages": [
-                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                        ]
-                                    },
-                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                        "mesh": "8d9ea766-c92c-2dd1-23a0-da68fa074fbe",
-                                        "material_instance": "780a93a5-8796-20f5-36b3-897e64df0470"
-                                    }
-                                }
-                            ],
-                            "508647ca-01f3-4930-9e33-4562692b719f": {
-                                "mesh": "8d9ea766-c92c-2dd1-23a0-da68fa074fbe"
-                            },
-                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8e0e2524-f28c-61b1-c538-5424ca873caa",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Grass"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "459a0a69-293e-cac4-1eb9-ac84bdbdbc0a"
+                "scene": "b119074d-d4bb-7802-2212-220e33f5587b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5816a052-bf7f-a4ac-65a1-80183a8e1a7e",
+            "instanceGuid": "e07d7fd5-b6b1-f1dd-814e-46a08e96a438",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Grass_Forest"
+                    "name": "Building Village"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "5edecd8b-b83a-eced-b8a0-bd8ee85df51b"
+                "scene": "cb0311bc-5aa9-7f27-b651-e1a2dd7f4736"
             }
         },
         {
-            "typeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-            "instanceGuid": "28364e18-2d66-90cf-c8b8-1a28848a4cf3",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Water"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
-                    "instanceGuid": "a6c198e1-0a8d-5bdc-6f0c-983b27e01ad9",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Physics Body"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                            "instanceGuid": "d3ee4ca9-a38c-922b-e72e-7b58bcae381e",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Mesh Collider"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                                    "instanceGuid": "f577e908-568d-6a06-49b5-1d80b09050e9",
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Mesh"
-                                        }
-                                    ],
-                                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                        "stages": [
-                                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                        ]
-                                    },
-                                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                        "mesh": "e49e5a5a-91d4-3f17-ed9e-cc838df0cc35",
-                                        "material_instance": "9c4e01b6-4a3d-2a3a-024c-25df244fb1b8"
-                                    }
-                                }
-                            ],
-                            "508647ca-01f3-4930-9e33-4562692b719f": {
-                                "mesh": "e49e5a5a-91d4-3f17-ed9e-cc838df0cc35"
-                            },
-                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b317aefa-efc2-35ef-adac-ffcbec3cb679",
+            "instanceGuid": "d2579d70-f971-b68e-f1e1-2c706e78257e",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SM_Path_Corner"
+                    "name": "Grass Hill"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "36acfcc1-d6a5-7dda-5974-5fcc831cd71f"
+                "scene": "1934a258-0586-cbf4-6f99-d4ee1686bf18"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ed8b747d-f2ee-6ad0-7447-73001bac0aae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "98e4cc87-9e1a-517f-35af-237c72ef00c4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c5370871-a012-b9c6-44cf-7f8a54506111",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "65a15d0a-db15-d6f7-76f6-2b77d791a15a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "486cec39-604c-5d85-1a17-96506c7f3970",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass Forest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "53ee1308-3c70-4deb-8fd5-71690af8a785"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4b5660ca-0d01-5672-3801-89f2960741f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Water"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a143d78e-3121-27b0-f741-179e4e82ba34"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8f1a1910-5077-6124-fe2b-64e006a1876c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "092d6844-a4d0-59c1-9311-bc8009c7d350"
             }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "57f94414-8dd9-53b1-352b-4fe625d24252"
+        "scene": "2449f0a4-8777-184a-8e74-6004ed8f7f6f"
     }
 }

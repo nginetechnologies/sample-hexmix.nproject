@@ -1,688 +1,1069 @@
 {
-    "02b74e01-1ae1-23a3-cc12-ba5077878fa1": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Hill.scene.nasset/SM_Grass_Hill.scene.nasset"
-    },
-    "03285d4e-b4b4-a4be-0363-ea565a98e15f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Straight.scene.nasset/SM_Path_Straight.scene.nasset"
-    },
-    "046ec7a5-c81b-c6fc-6abc-3170586af4c1": {
+    "03bdc2d1-1e4a-1d08-db53-168f637aff41": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Stone_Mountain.scene.nasset/M_Stone-9.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Building Market Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "0c197018-bf0c-6220-589b-0c760e346eef": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/SM_Building_Mill.scene.nasset"
-    },
-    "108f559c-d0b3-eeee-fa22-0154fe98ab01": {
+    "055b4873-b44a-71f3-4cc5-f1ff62bf32bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/M_Foliage-7.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Village.mesh.nasset/Building Village Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0848a2e1-2abb-b2aa-4513-d1c36df51fcf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Straight.mesh.nasset/Hex_Path Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "092d6844-a4d0-59c1-9311-bc8009c7d350": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass.001.mesh.nasset/Hex_Grass.001.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0db5ea8a-9dee-bd1c-68c5-bb113f7b4e0d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Tower.mesh.nasset/Building Tower Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0e2dc0eb-9c09-8cdc-2fa9-51ec80ddc92a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Sheep.mesh.nasset/Building Sheep Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "10136d52-8c34-e635-563a-0aa195af2985": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Straight.mesh.nasset/Path Straight Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "11540610-6b35-49ad-b582-d188d3e59303": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "thumbnail": "45b5d266-77c0-439d-876b-ad35451715f6"
     },
-    "115cbd32-5dc0-8dc6-dcae-35d411397279": {
+    "12327ad9-12fb-3bde-823c-8904ac6acaf4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Straight.scene.nasset/M_Wood-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass.001.mesh.nasset/Grass.001 Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "11627e2c-c651-be39-8f42-d7c79e93462e": {
+    "124d607f-7e6b-7685-4adb-799436a9cd83": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Water Rocks.mesh.nasset/Water Rocks Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "13177be0-8a02-633f-b6e6-86db3b43ed26": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Village.mesh.nasset/Building Village Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "167dd5f7-309c-3a31-f1f5-cb5943d53cc6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass.mesh.nasset/Grass Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1934a258-0586-cbf4-6f99-d4ee1686bf18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Hill.mesh.nasset/Hex_Grass Hill.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "19d178b8-e0b5-e357-d68c-6fdadb538c36": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Dirt Lumber.mesh.nasset/Dirt Lumber Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "21827826-7f39-15e8-c364-b4cede37cb76": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Water.mesh.nasset/Water Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "21a867e3-55b7-a2ea-e93a-ac21e280f711": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Water Rocks.mesh.nasset/Hex_Water Rocks.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "22245baa-9356-9d34-f71f-3ca95f977b04": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Building Market Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "226c5472-c62b-8d55-8305-de9e90acd096": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Tower.mesh.nasset/Building Tower Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2449f0a4-8777-184a-8e74-6004ed8f7f6f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Village.scene.nasset/SM_Building_Village.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/HexMix_Scene.scene.nasset"
     },
-    "1203954d-da76-aad0-3cc1-335be3685aed": {
+    "251d84ed-2978-742a-82bd-f491eec5ec41": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/M_Water-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Village.mesh.nasset/Building Village Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "12078b0d-0019-d10e-31aa-d6e99f4b6069": {
+    "2561ef67-2102-1536-f95d-977673763888": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Sheep.scene.nasset/M_Grass-12.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mine.mesh.nasset/Building Mine Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "12be3cc4-4c31-8274-03fc-f8714441dfd6": {
+    "2afe7ac2-487b-1117-bb96-d9381d689f7f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mine.scene.nasset/M_Grass-11.mesh.nasset"
-    },
-    "14863516-563b-6c03-e5ee-aaab65194e7a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Cabin.scene.nasset/M_Wood-5.mesh.nasset"
-    },
-    "14c989c0-a68b-185a-36b4-965b289e1d2b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_River_Straight.scene.nasset/M_Grass.mesh.nasset"
-    },
-    "15afa23f-3b7d-64d7-a428-22c0d1c9b968": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Castle.scene.nasset/M_Foliage-4.mesh.nasset"
-    },
-    "16a54f1b-807a-3ca1-edb7-c5f747dd267b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Tower.scene.nasset/SM_Building_Tower.scene.nasset"
-    },
-    "17656cd6-fbee-8dcf-4599-7b5daec83c57": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Tower.scene.nasset/M_Roof-6.mesh.nasset"
-    },
-    "185aa8f8-d5ca-8180-7387-d14e38a4bd30": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Intersection.scene.nasset/SM_Path_Intersection.scene.nasset"
-    },
-    "195a92fd-963d-0a17-b4c7-c4881ca292d4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Straight.scene.nasset/M_Dirt-5.mesh.nasset"
-    },
-    "1f3a4155-6650-db19-436c-c9adf77938a1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/M_Dirt-11.mesh.nasset"
-    },
-    "2115dd2e-c806-547e-49e3-ceef2b054157": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/M_Water-4.mesh.nasset"
-    },
-    "234a3b3b-61d8-6b3e-959f-1c68ff7e8f61": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Village.scene.nasset/M_Wood-12.mesh.nasset"
-    },
-    "25de78a7-7889-5944-f164-c031a0d9679e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/M_Wood-3.mesh.nasset"
-    },
-    "28d8819c-3550-741f-7f3e-4263ed11f391": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Hill.scene.nasset/M_Wood-13.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Castle.mesh.nasset/Building Castle Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
     },
-    "2d6f5716-b2dc-d027-3821-bd273a110ebb": {
+    "2d129997-8d22-264d-fa7f-2c35e198943d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Dock.scene.nasset/M_Foliage.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Village.mesh.nasset/Building Village Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "3056722c-f60d-9dc7-851b-51ae9f9f189f": {
+    "2e212cea-7944-05e8-76fc-9bc52b4f2d42": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/M_Foliage-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mine.mesh.nasset/Building Mine Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "32594582-133c-a8b8-e14a-fe669a444d1d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Corner.scene.nasset/M_Grass-17.mesh.nasset"
-    },
-    "36acfcc1-d6a5-7dda-5974-5fcc831cd71f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Corner.scene.nasset/SM_Path_Corner.scene.nasset"
-    },
-    "39466de1-0166-c850-bf0c-909816621132": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mine.scene.nasset/M_Foliage-9.mesh.nasset"
-    },
-    "3dd9b988-7f6d-8370-40c2-feb3b9c32e26": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mine.scene.nasset/M_Wood-11.mesh.nasset"
-    },
-    "3e4451ed-d8ab-569c-b03c-5e060025530e": {
+    "2f2c68e1-fb7e-b015-05ad-1518663a13f1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Wool.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Foliage.mtli.nasset"
     },
-    "41204917-95d6-95d4-54e0-0d3486cf2878": {
+    "2fad4a3d-84b6-8db4-3a6e-381bd7cfe9b9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Dirt_Lumber.scene.nasset/M_Wood-7.mesh.nasset"
-    },
-    "42b4f2ec-fc88-b0c2-2ddc-93fdeb881617": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Castle.scene.nasset/M_stoneDark.mesh.nasset"
-    },
-    "43c23c74-f429-fbcb-8979-ef0aaa9054d5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Village.scene.nasset/M_Grass-13.mesh.nasset"
-    },
-    "443c19a9-68bd-1f61-31c4-d385457672c1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/M_Foliage-6.mesh.nasset"
-    },
-    "459a0a69-293e-cac4-1eb9-ac84bdbdbc0a": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass.scene.nasset/SM_Grass.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mine.mesh.nasset/Hex_Building Mine.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "300da4d4-d24c-72f7-82f5-a079d492f70f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Building Mill Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "37c69b23-058c-b80a-1411-5a01e8c18c09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Stone Mountain.mesh.nasset/Stone Mountain Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3a89ecbe-6737-41d3-fc95-7689dd17c89b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Grass.mtli.nasset"
+    },
+    "426bc2d6-9380-17a8-bd97-347ee4ada1e3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Default.mtli.nasset"
+    },
+    "428a3da2-a139-6b42-7f12-5448a037ed13": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Forest.mesh.nasset/Grass Forest Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "444771ff-94e4-0c01-753c-9018b353ceda": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Stone.mtli.nasset"
+    },
+    "447e81e3-3f53-1a04-d5f7-afd2d597104d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Intersection.mesh.nasset/Hex_Path Intersection.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "44ae41f7-712c-d50d-785e-b01ae05dc7f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Castle.mesh.nasset/Hex_Building Castle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "45b5d266-77c0-439d-876b-ad35451715f6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/HexMix_Thumb.tex.nasset"
     },
-    "486717ac-3be8-3c8b-0e45-2bdae8a0cefc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Stone_Mountain.scene.nasset/SM_Stone_Mountain.scene.nasset"
-    },
-    "4ac1021b-587a-478c-6d60-aa1bba60cf07": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Stone_Mountain.scene.nasset/M_Snow.mesh.nasset"
-    },
-    "4b508c62-70cb-1e58-a6f9-dff94450aa90": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Straight.scene.nasset/M_Grass-5.mesh.nasset"
-    },
-    "4ec3b65f-cab8-6643-8107-05479b41e0b5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Farm.scene.nasset/M_Dirt-4.mesh.nasset"
-    },
-    "4fbae171-0529-7b39-832a-6947f5787c64": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Cabin.scene.nasset/SM_Building_Cabin.scene.nasset"
-    },
-    "52f12766-3790-67b7-cca5-12fedff10fb0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Cabin.scene.nasset/M_Foliage-3.mesh.nasset"
-    },
-    "5317c1c1-65ea-28d0-2f09-04f999652163": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Hill.scene.nasset/M_Default.mesh.nasset"
-    },
-    "54163aed-7738-3386-42d6-faf669f9dc64": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Dirt_Lumber.scene.nasset/M_Foliage-5.mesh.nasset"
-    },
-    "5628efdd-06b2-4c62-ff0d-a2e96f4d247e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/M_Dirt-3.mesh.nasset"
-    },
-    "56d11276-e71f-a8b2-7216-fddca8a0639d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Tower.scene.nasset/M_Stone-7.mesh.nasset"
-    },
-    "57f94414-8dd9-53b1-352b-4fe625d24252": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/HexMix_Scene.scene.nasset"
-    },
-    "5d7b68dd-65f2-da7a-32dc-ca9d39bc611f": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mine.scene.nasset/SM_Building_Mine.scene.nasset"
-    },
-    "5edecd8b-b83a-eced-b8a0-bd8ee85df51b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Forest.scene.nasset/SM_Grass_Forest.scene.nasset"
-    },
-    "5f7c6157-2791-7155-05b0-98a9b3d095a1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Dock.scene.nasset/M_Dirt-2.mesh.nasset"
-    },
-    "61ed92f2-3288-2408-5422-8150b9c338d5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Dock.scene.nasset/M_Roof.mesh.nasset"
-    },
-    "62183387-8c93-701c-51b9-9c24806ab89f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Stone_Mountain.scene.nasset/M_Dirt-13.mesh.nasset"
-    },
-    "6590ae77-1d3b-97c2-3d16-0789c5f027ba": {
+    "45bb8257-36b0-b48d-5fab-11f512d44dea": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Foliage.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Dirt.mtli.nasset"
     },
-    "6650dcd1-c9bb-6484-607f-542af76a0744": {
+    "45d278ee-3737-fe72-0602-153debc6e6d7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mine.scene.nasset/M_Stone-8.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Tower.mesh.nasset/Building Tower Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "670290e8-2d12-7699-88c9-42b16f5f1521": {
+    "477a69cc-665d-1e54-1dd0-99d52ac2656f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mine.scene.nasset/M_Dirt-3.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/River Straight.mesh.nasset/River Straight Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "48bcf885-1f28-9c35-54d6-2d54dfc8b3e8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Dirt Lumber.mesh.nasset/Hex_Dirt Lumber.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4a7551e1-2ceb-7633-4b8a-7e8c3ac70fea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Forest.mesh.nasset/Grass Forest Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4e04a0c8-67be-c45a-3906-8b406d2ad43a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Dock.mesh.nasset/Building Dock Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4f1684e0-86e6-2118-1f0a-3ae6864d9826": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Building Mill Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "515dd2fd-4b22-3726-65ed-b88c2e565298": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Building Market Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "51be3adf-1d04-02e2-b6ad-d877bbcb47a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/River Straight.mesh.nasset/River Straight Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "53b3dbd1-0ed4-066a-219f-df9622eb0b48": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Roof.mtli.nasset"
+    },
+    "53ee1308-3c70-4deb-8fd5-71690af8a785": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Forest.mesh.nasset/Hex_Grass Forest.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5601a3a9-9fbe-4dd5-18af-c00f1bf9ddaa": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Wool.mtli.nasset"
+    },
+    "577e8245-300b-c5e6-2c14-61cd1ffabd59": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Sheep.mesh.nasset/Building Sheep Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5892a7f8-261b-4492-b997-e7c2866647e8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Cabin.mesh.nasset/Hex_Building Cabin.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "58edaa2a-e187-3926-8d9a-0fe28d534faa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Forest.mesh.nasset/Grass Forest Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "590fc628-7696-aa72-0d5d-c64ffd8a53b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Dock.mesh.nasset/Building Dock Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "59a4c3d9-14fe-daf8-e4dd-4fa2d9eaf00e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Cabin.mesh.nasset/Building Cabin Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5bdfae66-0762-a8fc-8dea-cb3c803613d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Sheep.mesh.nasset/Building Sheep Wool.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5ca22f45-edbe-586c-337f-ea40cfc7f3ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Hill.mesh.nasset/Grass Hill Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5de84716-8c9c-da33-a619-32078d00ea39": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass.001.mesh.nasset/Grass.001 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5e85c119-65fc-3d9c-26e9-e8632d866124": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Hex_Building Market.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "61543a3b-a24a-63a6-8c99-a9d4800f655d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Castle.mesh.nasset/Building Castle Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "619019eb-f20a-ca3a-6341-88ea712c9daf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Building Mill Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "61b40e0b-50d9-b3f4-ea93-f38ef2ddcda8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Hex_Building Mill.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "620d6c2a-83b0-a962-e513-f7cd9354ebab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Dock.mesh.nasset/Building Dock Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6555a666-ab29-c1f3-2498-7903f7aa0d09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Farm.mesh.nasset/Building Farm Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "65a15d0a-db15-d6f7-76f6-2b77d791a15a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass.mesh.nasset/Hex_Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "67de0580-f2b9-eb81-5b30-e4abf7593b14": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Tower.mesh.nasset/Building Tower Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "693c763c-24d9-b678-b200-b9859b8904a4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Hill.mesh.nasset/Grass Hill Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "699684be-374e-41fc-b502-bdbedbcb302d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
     },
-    "6b2ecc38-76cf-e274-9297-56bf0026b84b": {
+    "6a96353a-76f7-c175-6b1b-528f3d98347d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Tower.scene.nasset/M_Dirt-12.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Stone Mountain.mesh.nasset/Stone Mountain Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "6bd2e87e-e7d1-4b0f-badf-b6f4253f70e2": {
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/HexMix.scene.nasset"
     },
-    "6f2de807-7201-7194-0f10-3c1fac66f21b": {
+    "6c88ff35-a5f8-c0b9-0982-6a90a6004347": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Village.scene.nasset/M_Foliage-10.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Building Water Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "6f50c225-6fe8-29b1-2d38-186807a949f3": {
+    "7177c3c7-6ba1-1b59-ae55-fa4985da7aae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Water_Rocks.scene.nasset/M_Stone.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Dirt.mesh.nasset/Dirt Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "74529491-89d5-4ded-44a8-bf96e6d15c4e": {
+    "75b82c9f-0dac-d340-d0f4-c7b6f6aa2d0d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Dirt.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Sheep.mesh.nasset/Building Sheep Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "780a93a5-8796-20f5-36b3-897e64df0470": {
+    "76245852-0bfc-ac0b-d9af-e0da26d0f3a7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Building Water Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7641244b-fb1e-3f6a-6214-457fd6451d95": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Building Mill Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7f0ebfb6-5bf3-158b-a63f-dbc7a79256b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Boat.mesh.nasset/Boat Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "83216ff9-2ecf-1ad7-008e-224b66b5e776": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Tower.mesh.nasset/Building Tower Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "84506131-d867-b631-fe79-f79be2303836": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Village.mesh.nasset/Building Village Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "84ca2126-d103-6c88-cdcc-78995f59105c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Intersection.mesh.nasset/Path Intersection Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "84ff3df2-919f-ebd9-0799-655122a8b653": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dirt.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/stoneDark.mtli.nasset"
     },
-    "791992ef-aac6-babf-8cd1-94ac5c49b6f5": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "86495845-df05-0d40-6c14-93466218a0dc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Water Rocks.mesh.nasset/Water Rocks Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8683b6a1-7145-efe3-8b43-eb8ea0a1090b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Dirt Lumber.mesh.nasset/Dirt Lumber Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8859b9b0-f125-a70a-cf38-08f0294219bd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Water.mtli.nasset"
+    },
+    "8bf6ba60-1749-69a9-d750-b88fcc3fda27": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Building Water Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8d87f1f2-aae3-327d-152e-1f0e3805bbec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Intersection.mesh.nasset/Path Intersection Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "90f71d49-77ca-8425-10d4-e82ad688dbf5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Hill.mesh.nasset/Grass Hill Default.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "914b4401-8577-5da0-f441-4375faf04c86": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Farm.mesh.nasset/Building Farm Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "91e580bd-5371-a8dc-8b09-b7e5b2835945": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Building Water Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "93768fde-2141-2b96-cbea-a4b6d492a45d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Dock.scene.nasset/SM_Building_Dock.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Dock.mesh.nasset/Hex_Building Dock.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "7919efb6-476a-0665-cb58-a053142e15e1": {
+    "938d3a2d-a496-2d3c-2dff-728a906980be": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/M_Stone-2.mesh.nasset"
-    },
-    "7946708f-8a2c-7b42-6d30-24dc4709a8c2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Forest.scene.nasset/M_Foliage-12.mesh.nasset"
-    },
-    "79929e7b-88f2-ddd6-aa21-3d4b194c4168": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Castle.scene.nasset/M_Wood-6.mesh.nasset"
-    },
-    "79a60353-f085-5347-458e-c1ce803b6952": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Dark.mtli.nasset"
-    },
-    "7aec45ca-2132-0b80-b4e9-558a197af75a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Default.mtli.nasset"
-    },
-    "7bec731c-d7ba-252e-a88b-97f970ea93fa": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/M_Stone-6.mesh.nasset"
-    },
-    "7dee11e2-a620-6493-6ca1-05970948433f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_River_Straight.scene.nasset/M_Water.mesh.nasset"
-    },
-    "7f54a729-6242-770a-d219-01a58c31e800": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Tower.scene.nasset/M_Foliage-8.mesh.nasset"
-    },
-    "7fa38a79-b67d-70fb-0928-bf295744485f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/M_Grass-8.mesh.nasset"
-    },
-    "80672cd0-277e-c462-667b-f539467e91d1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/M_Roof-5.mesh.nasset"
-    },
-    "80db7b41-de15-f7da-1707-514ae76f9577": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/SM_Building_Water.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Farm.mesh.nasset/Hex_Building Farm.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "816221fd-9d46-9949-f348-ec0fafe19f4a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Sand.mtli.nasset"
-    },
-    "892707b7-5b7b-9635-fdb0-ccd203f50a80": {
+    "94a5799a-0706-bfdf-17d8-023c22a11762": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/M_Grass-9.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Straight.mesh.nasset/Path Straight Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "894236ea-34f5-c747-56c1-adcc9fa697f0": {
+    "94e72471-cc76-59d0-5454-04a9317d9f21": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Village.scene.nasset/M_Dirt-15.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Building Water Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "8d9ea766-c92c-2dd1-23a0-da68fa074fbe": {
+    "97829755-f861-cffb-2d34-7ffcfa0488ce": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Boat.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mine.mesh.nasset/Building Mine Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "8f225170-ae0e-1e3c-d331-e44da2bc088c": {
+    "98cf0970-c0d2-ca66-a675-3061d54585b3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Intersection.scene.nasset/M_Grass-6.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Castle.mesh.nasset/Building Castle Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "8f2dfe66-4dc0-b4a5-f890-2709ddd8e4ac": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Stone.mtli.nasset"
-    },
-    "8f32b231-4014-fc2f-b221-233b1c386bdd": {
+    "98e4cc87-9e1a-517f-35af-237c72ef00c4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Castle.scene.nasset/M_Grass-7.mesh.nasset"
-    },
-    "8f9afb67-805f-85f4-04bb-1f89b02192ee": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/M_Roof-4.mesh.nasset"
-    },
-    "97013ee2-364c-b91c-9086-a99c84a2be0a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Forest.scene.nasset/M_Wood-14.mesh.nasset"
-    },
-    "99eb20c6-0471-cbb8-8667-c8eb5573875c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/M_Wood-8.mesh.nasset"
-    },
-    "99f2001c-771a-9fe3-4c1a-58138387f64b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass.scene.nasset/M_Grass-15.mesh.nasset"
-    },
-    "9b50ede4-db5a-f5cb-7578-a7a046f84f4d": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_River_Straight.scene.nasset/SM_River_Straight.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Boat.mesh.nasset/Boat.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "9c4e01b6-4a3d-2a3a-024c-25df244fb1b8": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Water.mtli.nasset"
-    },
-    "9dea0187-5a66-1e64-1871-6666c3ce1bc0": {
+    "9965ac12-00c2-de91-f9a5-b474f71f0101": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Intersection.scene.nasset/M_Wood-4.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Hill.mesh.nasset/Grass Hill Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "9e29db82-ec8b-1b2c-402a-69b279f36ede": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Grass.mtli.nasset"
-    },
-    "9e4a484d-0716-2004-5337-6f66b1c70ac1": {
+    "9e5b9c44-5b85-4c86-8c8d-5ded9de88880": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Water_Rocks.scene.nasset/M_Water-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Village.mesh.nasset/Building Village Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "9e923747-3bd7-c659-51d3-8731b7fe5aae": {
+    "a0d64fe7-c812-71b9-7fdd-6f58040cd757": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Farm.scene.nasset/M_Grass-4.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Dock.mesh.nasset/Building Dock Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "9ec7ea87-d9fe-27e3-ca03-0d77461ded8c": {
+    "a143d78e-3121-27b0-f741-179e4e82ba34": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass.scene.nasset/M_Dirt-17.mesh.nasset"
-    },
-    "9edf9297-1279-b47a-89f6-5c394510de53": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Corner.scene.nasset/M_Dirt-19.mesh.nasset"
-    },
-    "9f672a14-4c43-d562-3102-e173a2a4e63e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Castle.scene.nasset/M_Stone-4.mesh.nasset"
-    },
-    "a2437422-c403-8701-7e7c-166fce35eeca": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Hill.scene.nasset/M_Grass-14.mesh.nasset"
-    },
-    "a309f04f-6da8-72af-7248-32309435dc50": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Water_Rocks.scene.nasset/SM_Water_Rocks.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Water.mesh.nasset/Hex_Water.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "a4574470-1710-bf9f-7b25-ba7300bea992": {
+    "a4434703-fcac-843b-300b-1425d4cd41a6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Corner.scene.nasset/M_Wood-15.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Building Mill Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "a6534fcf-b869-66ef-95a9-4314886fd0a6": {
+    "a587247c-89ac-df7e-219b-c4842cbfbd9a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/M_Wood-9.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass.mesh.nasset/Grass Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "a82a28d4-00d5-69b9-0a3e-d787b4d97c79": {
+    "a6325e97-cb2e-474c-fb49-ee9d9ecf6db5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Tower.scene.nasset/M_Wood-10.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Building Water Roof.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "ab56cea4-8dfa-b8ab-6d80-3f8aafb9e94d": {
+    "a8b33511-83f4-6b07-f2c3-faacb6a7ae12": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Mill.scene.nasset/M_Sand-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass.001.mesh.nasset/Grass.001 Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "b03f362b-e672-c965-b8cd-90af5571870c": {
+    "a91d213b-b2dd-f2b6-f90d-18c51ba15df1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Hill.scene.nasset/M_Foliage-11.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Dirt Lumber.mesh.nasset/Dirt Lumber Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "b1ca6863-6c05-da34-e32d-61f49c3b2d45": {
+    "abf32362-4b0b-bcc6-fcb5-d7a2ec8a3d1b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Hill.scene.nasset/M_Dirt-16.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Castle.mesh.nasset/Building Castle stoneDark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "b5aea6e5-948b-6816-63bd-86458378a016": {
+    "ae14cab9-d6fe-7c95-63f1-32001c07f56a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Forest.scene.nasset/M_Dirt-18.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mine.mesh.nasset/Building Mine Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "bbb3fb55-6f30-908f-27e2-a4bcb35276e4": {
+    "b119074d-d4bb-7802-2212-220e33f5587b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_River_Straight.scene.nasset/M_Dirt.mesh.nasset"
-    },
-    "bc765ab3-bd27-f5c6-5828-85c0ae42358d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Wood.mtli.nasset"
-    },
-    "c16a75bc-874a-34ca-724c-31213aa1b572": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Farm.scene.nasset/SM_Building_Farm.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Dirt.mesh.nasset/Hex_Dirt.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b14610b1-6b0e-3aa7-5d7d-5dfd03d6c2ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Castle.mesh.nasset/Building Castle Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b2969856-aa3c-532f-22c1-fb58c6db9a16": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Cabin.mesh.nasset/Building Cabin Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b4c0c382-509e-7df0-d248-80fd191af5dd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mine.mesh.nasset/Building Mine Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b7b9cdaa-3f1d-f4df-c8fa-dfdaf7ff5cb8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Dark.mtli.nasset"
+    },
+    "be4ecb55-c7a9-297c-9553-912b5a6da96a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Stone Mountain.mesh.nasset/Stone Mountain Snow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bed4fe7d-3b54-77d3-66c4-a9ddf7adf02a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Building Water Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "c2b32621-2d56-4853-9bb7-f1f8ab857c35": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Player/Player.scene.nasset"
     },
-    "c4fbb496-a63c-4e36-0b82-2c5031d0e139": {
+    "c3dbedc5-f431-455d-88fa-52d5ca447479": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Sheep.scene.nasset/M_Dark.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Castle.mesh.nasset/Building Castle Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "c943d883-6778-99ae-3af3-1c482d9460bc": {
+    "c5b0cb7c-4999-0049-efd0-26218808c3e8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Dock.scene.nasset/M_Wood-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Intersection.mesh.nasset/Path Intersection Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "c98532ac-b5e8-50d7-f62a-9d2324998fc8": {
+    "c61baf5c-bc36-46be-8810-531eae8d10ed": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/M_Stone-5.mesh.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/River Straight.mesh.nasset/Hex_River Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "cad388bd-179b-6c95-52c4-780f02f019b1": {
+    "c72dda01-6abb-fb06-324c-be4e65ff0062": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Cabin.scene.nasset/M_Stone-3.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Dock.mesh.nasset/Building Dock Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "cc0bd108-fea1-7080-7c7d-033038a10560": {
+    "cb0311bc-5aa9-7f27-b651-e1a2dd7f4736": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Village.scene.nasset/M_Roof-7.mesh.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Village.mesh.nasset/Hex_Building Village.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "cdd96ae7-2427-0540-3451-cd11f251dab4": {
+    "cb6e26e4-0e80-3d05-8e63-c18476780843": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Building Mill Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cc25cbc7-883e-a46d-822f-c097d9347efa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Cabin.mesh.nasset/Building Cabin Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cc2e78ba-169f-e9ed-2edb-f161db262a24": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_stoneDark.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Sand.mtli.nasset"
     },
-    "ce025a4c-0891-7c2e-ee69-d41af7547813": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Sheep.scene.nasset/SM_Building_Sheep.scene.nasset"
-    },
-    "d2eb4109-d50f-0c32-7b37-bdfb11a2576e": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Castle.scene.nasset/SM_Building_Castle.scene.nasset"
-    },
-    "d4463635-9f2d-cb4e-85e5-674c5a3ee243": {
+    "cc47b7e2-f217-f570-e202-ff2e1c6bbdb3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Tower.scene.nasset/M_Grass-10.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/River Straight.mesh.nasset/River Straight Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cd094c7a-c1ca-99af-fd2b-d7111a06cbac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Dock.mesh.nasset/Building Dock Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cfbc0176-7880-aa48-d772-46c2afd77657": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Building Market Foliage.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d12c22f4-ace5-5b27-3f7d-1ce1d5a158bf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Hill.mesh.nasset/Grass Hill Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d1d35d1a-24a9-9886-9e04-d7cfb38ec615": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Stone Mountain.mesh.nasset/Hex_Stone Mountain.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d3e0a425-7b25-0afe-8f28-952729823341": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Sheep.mesh.nasset/Hex_Building Sheep.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
     },
-    "d5f55270-eb88-7248-0aaf-28c24ca1b848": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Dirt_Lumber.scene.nasset/SM_Dirt_Lumber.scene.nasset"
-    },
-    "d8c895b2-91b2-24d6-dddf-b68d4fc7c760": {
+    "d847c1ae-1130-1b6a-c96c-c94d8b3203e0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Hill.scene.nasset/M_Stone-11.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Cabin.mesh.nasset/Building Cabin Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "d975d7a3-e559-9ec1-e952-bfcb7344d1c8": {
+    "de1abfbd-4e40-2e07-ff75-fdea5ea67dc6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Building Market Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "de8f14d1-43f8-70ac-eb9d-363afe8af753": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Mill.mesh.nasset/Building Mill Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "df9cebdd-6628-96b7-4ec4-4b0364fcebaf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Roof.mtli.nasset"
+        "path": "Assets/Scene/Material Instances/Snow.mtli.nasset"
     },
-    "d9953cff-37bc-f842-5f99-49a7157d1dc8": {
+    "e4772a5d-65cf-ddd8-bc6b-254bee50349a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Dock.scene.nasset/M_Water-3.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Building Market Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "dc8abcf3-97db-ab60-9649-c20c9b3eae39": {
+    "e9a9e86a-4fbb-423c-4560-9fcce69c8dc9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Dirt_Lumber.scene.nasset/M_Dirt-9.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Cabin.mesh.nasset/Building Cabin Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "df482b55-29d0-e023-afdb-59553198a1f5": {
+    "ea892b4b-df83-438c-a6f6-bf3fb0af1706": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Grass_Forest.scene.nasset/M_Grass-16.mesh.nasset"
-    },
-    "dfb82484-b6a7-d300-cd4d-0f6d21164119": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/M_Snow.mtli.nasset"
-    },
-    "e03859f2-be59-2fcc-f898-7c246ff56751": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Castle.scene.nasset/M_Dirt-8.mesh.nasset"
-    },
-    "e121ae9a-d9ac-5eb7-6368-16e40cdaa59a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/M_Grass-3.mesh.nasset"
-    },
-    "e49e5a5a-91d4-3f17-ed9e-cc838df0cc35": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Water.mesh.nasset"
-    },
-    "eaa921f1-c5b4-a3d2-036f-c3d493c19c7c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Village.scene.nasset/M_Stone-10.mesh.nasset"
-    },
-    "ebf03315-d743-cdf0-c43c-7ef912ee826d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Cabin.scene.nasset/M_Roof-3.mesh.nasset"
-    },
-    "ef705fd0-783e-ea76-602a-a8c2fc2019bd": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/SM_Building_Market.scene.nasset"
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Water.mesh.nasset/Hex_Building Water.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "f08a9878-548d-0509-e10e-eb04f3094848": {
+    "ec37210a-604a-b5a2-30a6-43d41fbdaa38": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Water.scene.nasset/M_Dirt-10.mesh.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Tower.mesh.nasset/Hex_Building Tower.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
-    "f28dc8fb-76d4-c686-0ca8-c4210651c526": {
+    "ef5b4424-1d34-0e61-4dad-b428fd4411f7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Farm.scene.nasset/M_Sand.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Tower.mesh.nasset/Building Tower Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "f38a7102-29ae-159f-1697-d9f6180fae4c": {
+    "f08b92ae-08b1-0894-594b-980768412e73": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Dock.scene.nasset/M_Grass-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Hill.mesh.nasset/Grass Hill Stone.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "f5c8c07e-f548-69d8-c421-a8b4610d280d": {
+    "f3529cf7-6c30-6804-48af-c4cb4e43b8b7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Cabin.scene.nasset/M_Dirt-7.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Farm.mesh.nasset/Building Farm Sand.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "f6df5bc7-b7c9-2216-8d29-69d2e8652989": {
+    "f67e8995-49e8-4531-82e6-5b95d67e2157": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_River_Straight.scene.nasset/M_Wood.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Grass Forest.mesh.nasset/Grass Forest Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "f8116500-99f0-4fe2-6fe2-5ede2748ca5e": {
+    "fbb09815-07b0-427c-f28d-eb3c2be5c0bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Sheep.scene.nasset/M_Wool.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/River Straight.mesh.nasset/River Straight Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "f92933ed-5d98-0e3d-6aaf-41e0fd24e691": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Path_Intersection.scene.nasset/M_Dirt-6.mesh.nasset"
+    "ff06fb73-1291-4aaf-09a2-d0938d6d881b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Wood.mtli.nasset"
     },
-    "fbb45087-6c2d-bca0-27b3-a182d65a9a18": {
+    "ff148b62-35a8-fc1c-a0a6-2ea92a6a7481": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Market.scene.nasset/M_Roof-2.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Building Market.mesh.nasset/Building Market Grass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
-    "feb08445-62ce-b1b5-adfd-e8438052da69": {
+    "ff93bef2-07be-8605-6b27-8c083e790fa6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
-        "path": "Assets/Scene/HexMix_Scene.scene.nasset/SM_Building_Sheep.scene.nasset/M_Dirt-14.mesh.nasset"
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/HexMix_Scene.scene.nasset/Path Straight.mesh.nasset/Path Straight Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     }
 }
