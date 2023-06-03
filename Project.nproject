@@ -1,6 +1,7 @@
 {
     "name": "HexMix",
     "guid": "11540610-6b35-49ad-b582-d188d3e59303",
+    "database_guid": "3c77511d-b721-da0e-ccb5-ac51b4c89cc0",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +13,8 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "45b5d266-77c0-439d-876b-ad35451715f6",
-    "default_scene": "6bd2e87e-e7d1-4b0f-badf-b6f4253f70e2",
+    "default_scene": "efac0fe8-4775-4ca4-84ad-4ff12bf0e860",
+    "tags": [ "0c26b65a-dcc6-4109-aa99-44ccfc84ba67" ],
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
             "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
