@@ -14,19 +14,19 @@
                 "9ae0e145-86b4-4e47-afda-697bbd008922": {
                     "fieldOfView": 60.0,
                     "nearPlane": 0.1,
-                    "farPlane": 128.0
+                    "farPlane": 1024.0
                 }
             },
             "transform": {
                 "position": [
-                    -7.7413,
-                    -41.133,
-                    10.5961
+                    -88.6519,
+                    103.559,
+                    13.2489
                 ],
                 "rotation": [
-                    -20.63,
+                    -7.182,
                     0.0,
-                    -41.8723
+                    -158.1868
                 ]
             },
             "grid_settings": {
@@ -53,6 +53,4794 @@
     ],
     "children": [
         {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d53dbcbf-1e3b-5ef0-4195-8bc7c26fbc5b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -22.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d53dbcbf-1e3b-5ef0-4195-8bc7c26fbc5b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d2c9d55-7e5e-4c99-3351-aa24f12bee5b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    -37.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8d2c9d55-7e5e-4c99-3351-aa24f12bee5b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "57b18149-a3a3-062d-b151-35da4c547f30"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c42b0447-48c1-a1d9-0e85-5a940991b373",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    -42.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c42b0447-48c1-a1d9-0e85-5a940991b373"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fd9689b8-b75c-42cb-bd27-60331257e361"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "954adb19-84af-a02a-56e6-03c1ead2aca5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5,
+                    2.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "954adb19-84af-a02a-56e6-03c1ead2aca5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7b4f7c9e-8520-2587-482c-c32d4252a714",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    -37.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7b4f7c9e-8520-2587-482c-c32d4252a714"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1e267847-4589-9d71-85a9-c23b92c59737"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ac610ca1-a2c8-84a7-0d95-f7987163446f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    57.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ac610ca1-a2c8-84a7-0d95-f7987163446f"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "523a5430-a5b8-b797-aa49-f2bacaac0223"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bae540c4-f142-b4c0-990c-6b99f4b28a67",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.6599,
+                    62.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bae540c4-f142-b4c0-990c-6b99f4b28a67"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "986fb266-fa0b-c97e-4092-d3a20aec0b98"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8c0fa21b-bd55-5e8b-c36c-7a648ed96c2a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    37.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8c0fa21b-bd55-5e8b-c36c-7a648ed96c2a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b9c85e45-e12a-77f3-57ee-db2f3ea69d5c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    82.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b9c85e45-e12a-77f3-57ee-db2f3ea69d5c"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e6b575dc-66d8-4754-e6d4-4f2c42061411"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5ddb5827-2e09-fc5d-d786-6d7dfc45fb80",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    57.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5ddb5827-2e09-fc5d-d786-6d7dfc45fb80"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2f04eef1-356f-da66-72d1-579317802050",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    62.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2f04eef1-356f-da66-72d1-579317802050"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7d880a1f-ffae-f307-bfda-cce2d4738a80"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c19f48ec-1cda-3de0-557e-7793a317c260",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    27.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c19f48ec-1cda-3de0-557e-7793a317c260"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8ccf3a36-da40-0fa2-ea52-3859d3e6195b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5faf1f57-91cd-5af7-1747-81fe237afdd7",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.5,
+                    -7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5faf1f57-91cd-5af7-1747-81fe237afdd7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c9a61051-8483-bcfa-9eab-c720c98cae1e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    43.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c9a61051-8483-bcfa-9eab-c720c98cae1e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "11326a07-dacc-60bc-725a-4f33e2761146"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5c59d1f-b3af-195c-1bfc-675ff226233f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -4.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a5c59d1f-b3af-195c-1bfc-675ff226233f"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a19a614e-e9aa-6cae-2957-8a76508aece7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "950a8ac4-f23c-9798-6fed-df21b4615858",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    42.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "950a8ac4-f23c-9798-6fed-df21b4615858"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49d88dbe-cd72-9851-9226-5e0d63e72e80",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -12.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49d88dbe-cd72-9851-9226-5e0d63e72e80"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "57b18149-a3a3-062d-b151-35da4c547f30"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "29e07c11-ab1f-9ceb-d611-64c7abd2ebc6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    52.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "29e07c11-ab1f-9ceb-d611-64c7abd2ebc6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "60080ebd-1b59-40e8-8e6a-318e65e87904",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    22.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "60080ebd-1b59-40e8-8e6a-318e65e87904"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1e267847-4589-9d71-85a9-c23b92c59737"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6516d357-5822-ccfb-181a-c42dca93c6a0",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    52.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    121.1454
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6516d357-5822-ccfb-181a-c42dca93c6a0"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4cc486fd-59c7-816f-9ec8-354cf8eb797c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    32.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4cc486fd-59c7-816f-9ec8-354cf8eb797c"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "838f97a6-fac4-3e44-52bb-9276becae393",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    57.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "838f97a6-fac4-3e44-52bb-9276becae393"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f874c806-8acc-32a7-7a70-01911e808b7f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    -32.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f874c806-8acc-32a7-7a70-01911e808b7f"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fd9689b8-b75c-42cb-bd27-60331257e361"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e1f87109-60b7-b79a-a8fc-643417f77ca3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    47.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e1f87109-60b7-b79a-a8fc-643417f77ca3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3cdc4586-78db-c177-eb01-c62f94dbb22f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    47.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3cdc4586-78db-c177-eb01-c62f94dbb22f"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe59b2ed-48dd-5049-cd7d-436bdce2591e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    17.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fe59b2ed-48dd-5049-cd7d-436bdce2591e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1e267847-4589-9d71-85a9-c23b92c59737"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "594cbc5d-b4b0-f7f2-c027-bc800a31f11f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "594cbc5d-b4b0-f7f2-c027-bc800a31f11f"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f170719a-edf4-aff3-91d8-1bc9990e7141",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    62.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f170719a-edf4-aff3-91d8-1bc9990e7141"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fee497f6-2f23-0918-58aa-99a61312ea41",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    17.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fee497f6-2f23-0918-58aa-99a61312ea41"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ada9d3fc-0ca9-5a82-8d8d-b77a6ca922b2",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    12.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ada9d3fc-0ca9-5a82-8d8d-b77a6ca922b2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a78df7bb-13b1-21ac-8086-923445423f5d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a78df7bb-13b1-21ac-8086-923445423f5d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "15878acc-6b9b-f9b5-6593-24eaa82742dd",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    -7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "15878acc-6b9b-f9b5-6593-24eaa82742dd"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "019c31cc-70a6-d228-a3b4-c8a70ddaaf1d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    42.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "019c31cc-70a6-d228-a3b4-c8a70ddaaf1d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ef42e3ad-221c-1939-3348-7950611df639",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    -7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ef42e3ad-221c-1939-3348-7950611df639"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e3ebf492-0bcf-38e2-129a-181b32bd3063",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    -7.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e3ebf492-0bcf-38e2-129a-181b32bd3063"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3b2089f3-c798-0c23-17a1-f79736546caf",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    52.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    59.0174
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3b2089f3-c798-0c23-17a1-f79736546caf"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9771e992-0d06-f6ee-2fcb-6a495bbb8bfa",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.3205,
+                    67.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9771e992-0d06-f6ee-2fcb-6a495bbb8bfa"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "986fb266-fa0b-c97e-4092-d3a20aec0b98"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2be39c8c-16dd-e9b9-221e-06b671aad20a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5475,
+                    72.25,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    59.9998
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2be39c8c-16dd-e9b9-221e-06b671aad20a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "523a5430-a5b8-b797-aa49-f2bacaac0223"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "498ed10f-8217-a03c-f55d-98260dcc6dc3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    77.3503,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "498ed10f-8217-a03c-f55d-98260dcc6dc3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d20b9657-57d4-d52c-3e06-1331acde2c48",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    47.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d20b9657-57d4-d52c-3e06-1331acde2c48"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f296e853-0028-e755-6b1d-0fe4aef8e9e6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    67.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f296e853-0028-e755-6b1d-0fe4aef8e9e6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dc5b5784-bc43-c32b-f854-6b355969e964",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    27.5,
+                    0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "dc5b5784-bc43-c32b-f854-6b355969e964"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f1ffcf5-9c0f-1833-1618-93f45c22f185",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    67.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6f1ffcf5-9c0f-1833-1618-93f45c22f185"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cc5d9fb8-78b2-d232-9cd1-f522f5fb7063",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    72.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cc5d9fb8-78b2-d232-9cd1-f522f5fb7063"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "932128db-876b-7055-aa73-fad54df84b55",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    67.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "932128db-876b-7055-aa73-fad54df84b55"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8c3dc757-b90f-2ec8-706e-6f59d229bb51",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    62.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8c3dc757-b90f-2ec8-706e-6f59d229bb51"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "795dc4b9-541e-a1c8-9053-43b1ece29ffa",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    77.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -59.9998
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "795dc4b9-541e-a1c8-9053-43b1ece29ffa"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c56d98b-1463-b6de-b440-ca10e876916e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    72.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -59.9998
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5c56d98b-1463-b6de-b440-ca10e876916e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ee1c7295-38aa-e561-044b-ea78b5f6c0ed",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    67.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ee1c7295-38aa-e561-044b-ea78b5f6c0ed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4ac8fb57-147c-7b55-b5bc-c956cee053e1",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    32.5,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4ac8fb57-147c-7b55-b5bc-c956cee053e1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6fead31d-7f3b-6b9e-b40c-62af602580cc",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    27.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6fead31d-7f3b-6b9e-b40c-62af602580cc"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7360900-1da9-1456-24ee-84b66a0d0479",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    22.5,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b7360900-1da9-1456-24ee-84b66a0d0479"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d6713ba8-a3ac-c0c1-c690-01da81c15b22",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    77.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d6713ba8-a3ac-c0c1-c690-01da81c15b22"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3dc8d85d-cef8-e143-2493-e4ceb88fa768",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    -2.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3dc8d85d-cef8-e143-2493-e4ceb88fa768"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "19c3fba6-2a2d-e85e-3cd4-e0cc775efac0",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    -2.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "19c3fba6-2a2d-e85e-3cd4-e0cc775efac0"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6c3dc3a0-04a0-ccf7-66aa-43cb6ee5d0ed",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5,
+                    22.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -119.9996
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6c3dc3a0-04a0-ccf7-66aa-43cb6ee5d0ed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "24c7bb14-0ccc-e429-e2b6-5ae2712c2bc5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    17.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "24c7bb14-0ccc-e429-e2b6-5ae2712c2bc5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eeea4a8a-9a50-e260-af92-06debcfbdbb4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    7.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "eeea4a8a-9a50-e260-af92-06debcfbdbb4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8ccf3a36-da40-0fa2-ea52-3859d3e6195b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "433aa216-7041-6f70-7244-9e67864ba4eb",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5,
+                    12.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "433aa216-7041-6f70-7244-9e67864ba4eb"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dc435280-8016-6fe9-db6c-b1d5483f443d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "dc435280-8016-6fe9-db6c-b1d5483f443d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5e458178-8ab9-072a-91d5-72c9e434ec59",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5e458178-8ab9-072a-91d5-72c9e434ec59"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "090341ab-cea2-7a62-f5b7-c75185e13acc",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.5,
+                    2.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -119.9996
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "090341ab-cea2-7a62-f5b7-c75185e13acc"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d31f1cd1-6f88-618c-cb40-8564c0496907",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -2.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d31f1cd1-6f88-618c-cb40-8564c0496907"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0071956a-a3f5-5d3d-069d-a9a7e002677c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    17.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0071956a-a3f5-5d3d-069d-a9a7e002677c"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0a4d1ba4-66ac-4257-3361-ba085a4711da",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    17.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0a4d1ba4-66ac-4257-3361-ba085a4711da"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bbabd53a-e817-45b1-9200-325351924df5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    72.3503,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bbabd53a-e817-45b1-9200-325351924df5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f1e246a8-f6a7-92b5-2979-9b4bb2e6ae08",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    62.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f1e246a8-f6a7-92b5-2979-9b4bb2e6ae08"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b8096003-cec1-2703-a2eb-67925c317674",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    57.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b8096003-cec1-2703-a2eb-67925c317674"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d0f84ced-dd0c-6195-a990-c17b878d3825",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    47.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d0f84ced-dd0c-6195-a990-c17b878d3825"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "06ec5660-a3af-a629-2858-b7b0aa37ab9b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    37.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "06ec5660-a3af-a629-2858-b7b0aa37ab9b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "041454e9-81bc-562c-8b73-6572b4654ac6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    52.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "041454e9-81bc-562c-8b73-6572b4654ac6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7f1f6b6-0cb1-ebe7-1699-98ff340fbd91",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    87.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a7f1f6b6-0cb1-ebe7-1699-98ff340fbd91"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "787859f1-499a-4588-80a3-9add46d3b60d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    92.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "787859f1-499a-4588-80a3-9add46d3b60d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "802ae438-c1d9-e39f-65b7-849f26fc3c1d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    87.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -59.9998
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "802ae438-c1d9-e39f-65b7-849f26fc3c1d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d79eb1fa-9a79-ba6f-7486-20d82bbfbfea",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    82.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -59.9998
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d79eb1fa-9a79-ba6f-7486-20d82bbfbfea"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a2d1854c-ae10-44dd-f2df-e3efde0beb48",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    32.5,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a2d1854c-ae10-44dd-f2df-e3efde0beb48"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c59e39e6-3b00-3e55-6899-3dc8a192cb2b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    22.5,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c59e39e6-3b00-3e55-6899-3dc8a192cb2b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a9c249ce-2a3e-ba34-f1c4-e44901e53f03",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    41.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a9c249ce-2a3e-ba34-f1c4-e44901e53f03"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a19a614e-e9aa-6cae-2957-8a76508aece7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "22f2d708-80d4-1a6d-5ca5-392f1282b534",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    27.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "22f2d708-80d4-1a6d-5ca5-392f1282b534"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d853f4ea-58f8-8fb8-f59f-509dd440d906",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    17.5139,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.3645
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d853f4ea-58f8-8fb8-f59f-509dd440d906"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "30fd5875-4af4-3f44-02f0-c26392632ad8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    -7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "30fd5875-4af4-3f44-02f0-c26392632ad8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "33288de9-630c-8a59-1805-77f129450129",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    77.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "33288de9-630c-8a59-1805-77f129450129"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6d085afd-2907-7b2c-3190-c7807def865c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -104.9468,
+                    67.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6d085afd-2907-7b2c-3190-c7807def865c"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7d880a1f-ffae-f307-bfda-cce2d4738a80"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0771dc4f-2b52-0797-2c77-a03166b02c40",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    12.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0771dc4f-2b52-0797-2c77-a03166b02c40"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "36592aec-f72b-69d9-5633-050f4d3fe17b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    7.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "36592aec-f72b-69d9-5633-050f4d3fe17b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "33f1025f-2bd0-1c4f-a4f7-423e7a0f8ed9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "33f1025f-2bd0-1c4f-a4f7-423e7a0f8ed9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1bc25699-dcb0-1e36-583c-003d6e8028d3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -12.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1bc25699-dcb0-1e36-583c-003d6e8028d3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d6a53fd9-1cef-da6e-1caf-bec2e3bfc7a9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d6a53fd9-1cef-da6e-1caf-bec2e3bfc7a9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a54579f5-df59-bb4f-c827-9e0c4d440774",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    -7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a54579f5-df59-bb4f-c827-9e0c4d440774"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "559e9673-738c-30e7-afda-c222545aac9b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    -17.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "559e9673-738c-30e7-afda-c222545aac9b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c2a0375-9642-4556-aefc-75eecdedbdfd",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -32.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.3645
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5c2a0375-9642-4556-aefc-75eecdedbdfd"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7c5046ff-dfc5-8175-5a38-d0fd52ed3a2b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    -12.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7c5046ff-dfc5-8175-5a38-d0fd52ed3a2b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8ff6a1dc-08ee-749c-cd0a-43100c47ee7c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -113.5,
+                    72.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8ff6a1dc-08ee-749c-cd0a-43100c47ee7c"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e6b575dc-66d8-4754-e6d4-4f2c42061411"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "70b067a9-2210-99ef-4c6a-6c0cd4556fc2",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -113.5,
+                    62.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "70b067a9-2210-99ef-4c6a-6c0cd4556fc2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7a0ab1d-1186-cc37-16c8-e4bec626e191",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -113.5,
+                    52.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a7a0ab1d-1186-cc37-16c8-e4bec626e191"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "982e6485-fa9d-0e79-5e6c-8d41525e6412",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -113.5,
+                    42.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "982e6485-fa9d-0e79-5e6c-8d41525e6412"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b2c98990-a6a4-46aa-8668-f62e9f7cf164",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -113.5,
+                    32.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b2c98990-a6a4-46aa-8668-f62e9f7cf164"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "95ad11f5-78fe-d9c2-bbee-68767f84b74a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -113.5,
+                    22.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "95ad11f5-78fe-d9c2-bbee-68767f84b74a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a793cce4-985c-b582-3222-1915aa027a4a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a793cce4-985c-b582-3222-1915aa027a4a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "937aa153-12af-6a22-803e-eb105d079c29",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    7.5,
+                    -2.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "937aa153-12af-6a22-803e-eb105d079c29"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "058566b7-031c-1f27-e3e7-865cb86a4a57",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -12.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "058566b7-031c-1f27-e3e7-865cb86a4a57"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2960532f-f3c3-9682-43c4-812329fa9e0e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -22.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2960532f-f3c3-9682-43c4-812329fa9e0e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c773d991-5bce-18d2-c33c-42ab072a14b5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -32.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c773d991-5bce-18d2-c33c-42ab072a14b5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e7b3b4b0-4f97-a337-e036-2282256f0efe",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    -2.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e7b3b4b0-4f97-a337-e036-2282256f0efe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3f9d1f19-dc19-2e2f-8b6d-4a6ec93cb263",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    2.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3f9d1f19-dc19-2e2f-8b6d-4a6ec93cb263"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d6cd2935-36c1-7bf3-6268-d9d1c1b66836",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    -22.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d6cd2935-36c1-7bf3-6268-d9d1c1b66836"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "656997a5-2417-90a8-c27b-62191e22ae68",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5,
+                    -27.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "656997a5-2417-90a8-c27b-62191e22ae68"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ba1dfaa6-eac1-921e-71af-770c776c50ce",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    12.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ba1dfaa6-eac1-921e-71af-770c776c50ce"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b39d8b69-7f7a-893a-b33d-f1e4d730a195",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -105.0,
+                    17.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b39d8b69-7f7a-893a-b33d-f1e4d730a195"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "347758a7-8e47-b61b-c55f-69b5d2db7f88",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -113.5,
+                    12.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "347758a7-8e47-b61b-c55f-69b5d2db7f88"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e6b575dc-66d8-4754-e6d4-4f2c42061411"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e4a37a91-52fa-9f88-3d64-fd1fd3556beb",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    -12.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e4a37a91-52fa-9f88-3d64-fd1fd3556beb"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6a2e7c3e-cef3-9311-7af6-8ce142cdfcd3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5,
+                    -17.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6a2e7c3e-cef3-9311-7af6-8ce142cdfcd3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d65b99fe-418f-ce1d-fb3c-dc89ba21dbe4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    -27.5,
+                    0.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d65b99fe-418f-ce1d-fb3c-dc89ba21dbe4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cb8b0882-6bde-bb27-0adf-1e5cb5d98929",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    -32.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cb8b0882-6bde-bb27-0adf-1e5cb5d98929"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dce776e0-e63c-c286-24d9-db12b98c64ce",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    -37.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "dce776e0-e63c-c286-24d9-db12b98c64ce"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1bd8a0b8-1463-dd69-7d4a-4d9f7988c8c7",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    -47.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -120.3645
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1bd8a0b8-1463-dd69-7d4a-4d9f7988c8c7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f7e34da-a19b-87d3-59b6-0022871dfd3d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -42.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.3646
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9f7e34da-a19b-87d3-59b6-0022871dfd3d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40d27c48-dc32-fb85-e892-a4fa56a77bc4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.5,
+                    -17.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "40d27c48-dc32-fb85-e892-a4fa56a77bc4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5bc87eff-749e-27b5-c93d-711c16e3229b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -22.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5bc87eff-749e-27b5-c93d-711c16e3229b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c4b4bbdf-c0d6-6b90-4ac1-b6d0c4227024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d55efc7f-8537-3e59-b836-2a6ff4d545a5",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    31.0,
+                    -12.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d55efc7f-8537-3e59-b836-2a6ff4d545a5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3f149db2-f7f2-cba0-e143-6ac26a3a15ab",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    -37.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3f149db2-f7f2-cba0-e143-6ac26a3a15ab"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7c22d10a-07a1-a487-57ca-d495b1a1b002",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    -52.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.3646
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7c22d10a-07a1-a487-57ca-d495b1a1b002"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "879bbcdd-0dca-ffc8-ef3b-805979bc7ce9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "996d4f2d-be78-e389-30cd-a1bf272670d1",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    -47.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "996d4f2d-be78-e389-30cd-a1bf272670d1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0cca0368-6eed-abe4-9962-ac0446c97378",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    -42.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0cca0368-6eed-abe4-9962-ac0446c97378"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f598123b-5216-6e5f-f0a1-0bbbc3bbcf62",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.6002,
+                    -42.8259,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f598123b-5216-6e5f-f0a1-0bbbc3bbcf62"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a19a614e-e9aa-6cae-2957-8a76508aece7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c70efdd4-3608-a37b-3d49-b221fa5a70e8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.5,
+                    -27.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c70efdd4-3608-a37b-3d49-b221fa5a70e8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e9a890bd-dd58-5b8c-2806-85d08417b24c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.0,
+                    -32.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e9a890bd-dd58-5b8c-2806-85d08417b24c"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "32e32108-ceaf-f349-757c-da54f127ef04",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5,
+                    -37.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "32e32108-ceaf-f349-757c-da54f127ef04"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4670fe4b-f912-e134-6937-003bca697aff",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    -42.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4670fe4b-f912-e134-6937-003bca697aff"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e3194ae-35d5-6fda-dbdc-c484acd31c7d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    -47.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1e3194ae-35d5-6fda-dbdc-c484acd31c7d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9002d76a-feab-0849-46bc-17a4f64da60d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    -37.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9002d76a-feab-0849-46bc-17a4f64da60d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f8a92cb-5b6c-d8fe-bf76-034174f5530b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    -42.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9f8a92cb-5b6c-d8fe-bf76-034174f5530b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2b759910-4dff-fc77-d9fe-af35727a545e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    -47.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2b759910-4dff-fc77-d9fe-af35727a545e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "86dfa2a4-4bc6-0a3d-f20b-2d922f9828df",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    -52.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "86dfa2a4-4bc6-0a3d-f20b-2d922f9828df"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "148c9cc5-fb83-d34d-9d47-5b8b1434f5a9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    -47.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "148c9cc5-fb83-d34d-9d47-5b8b1434f5a9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4f228c8-f190-033e-bdbd-acd7e19807e6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    -42.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d4f228c8-f190-033e-bdbd-acd7e19807e6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "15da3273-8034-cc93-0f91-5e26f1724b4c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    -37.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "15da3273-8034-cc93-0f91-5e26f1724b4c"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7d47be6a-1658-ce02-a233-00ce2d2b5d32",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -42.5,
+                    -1.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    5.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7d47be6a-1658-ce02-a233-00ce2d2b5d32"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "38afbf70-e10f-2561-3fe7-a87d6b3b7802"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "daf873f9-7775-3dbe-890d-a2f7aaeb0256",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -52.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    120.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "daf873f9-7775-3dbe-890d-a2f7aaeb0256"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e6b575dc-66d8-4754-e6d4-4f2c42061411"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cd9dda31-9110-7a85-317a-df693312ea97",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    17.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cd9dda31-9110-7a85-317a-df693312ea97"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "686abdd0-5a0b-bb19-5bf8-9106542008ff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "87359135-7574-c07d-fdbc-ffc225070535",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    27.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "87359135-7574-c07d-fdbc-ffc225070535"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6dca9090-987c-64fb-f1af-29480a01b4ef",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    2.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -30.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6dca9090-987c-64fb-f1af-29480a01b4ef"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4abfb955-7a18-03fa-532f-273ab5da4329"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6c8fdfc0-cd85-4522-d3b8-d6fb81578376",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    42.5,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6c8fdfc0-cd85-4522-d3b8-d6fb81578376"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "89381d18-d485-992d-99d6-a771ce64f1d7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "725a366f-714c-9de5-a490-d97b82cf11a9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    37.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "725a366f-714c-9de5-a490-d97b82cf11a9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aea95bc2-fb60-5160-32c4-3d7deced0f61",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    -2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "aea95bc2-fb60-5160-32c4-3d7deced0f61"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e6267be-b49a-23c1-e913-d2726c114806"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "86074600-1c35-267d-01d9-5b95bb35bb7f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    57.5,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "86074600-1c35-267d-01d9-5b95bb35bb7f"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e380492-5b04-e034-9512-ba3661b055c7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e0023738-ad89-b5de-1121-b8ea083331cc",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    52.5,
+                    -1.5
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e0023738-ad89-b5de-1121-b8ea083331cc"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "450569f8-a9eb-e710-153f-5f279d9b711a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bf2bf242-ba3f-d51d-a0e6-719f28650403",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    -2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bf2bf242-ba3f-d51d-a0e6-719f28650403"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ebbad559-2eba-5853-bbef-608e7bdb0a92"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4e208f8d-21de-ff58-993b-843ad7be4566",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    -12.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4e208f8d-21de-ff58-993b-843ad7be4566"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b490e826-d1dc-8604-54f6-69dc93de3620"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9822785f-5bac-44fe-8df5-096b73d00c62",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    22.5,
+                    -1.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9822785f-5bac-44fe-8df5-096b73d00c62"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aa73ad67-77fd-4c05-2836-2c033827936d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "03813b8a-3c05-e7f4-1466-40b27c40332a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    12.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "03813b8a-3c05-e7f4-1466-40b27c40332a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "85ebbd30-1d9c-7230-eac2-2cc426eca9cb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "decbd02d-10e0-2314-3879-16623027b905",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "decbd02d-10e0-2314-3879-16623027b905"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d4d0e5c7-9b82-06a8-88eb-e8e456bc6ccf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6d2df9d-0ced-de26-94e4-078de3b036cc",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    12.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e6d2df9d-0ced-de26-94e4-078de3b036cc"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bf37dc48-74b2-69a3-fadb-2dea189965f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b3a78e58-fc24-399a-b491-314cb4cf60da",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    32.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b3a78e58-fc24-399a-b491-314cb4cf60da"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7c3869d8-765a-1ebe-1b4b-512f9d16596b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "277f248a-11f8-eb8f-2fa1-6763e7d2b477",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    37.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "277f248a-11f8-eb8f-2fa1-6763e7d2b477"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "28829e08-c27c-d0d1-f6fa-7af3f7e77814"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "85dbfe5c-d853-7f0a-99a1-6f64c75c6e32",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    47.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "85dbfe5c-d853-7f0a-99a1-6f64c75c6e32"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f4466a6e-bf39-7108-a86a-af639c2c0461"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "86b49302-d140-1557-e8e1-270f27cad56b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -21.4972,
+                    31.006,
+                    -0.1668
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -30.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "86b49302-d140-1557-e8e1-270f27cad56b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bab0719a-94b4-100c-e3ba-d9ed7f36e93c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a49224e0-5521-c013-ee6f-ccad5ed15fde",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    32.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a49224e0-5521-c013-ee6f-ccad5ed15fde"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1870434c-9d45-e0f8-f1e2-a68cbca67665",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    42.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1870434c-9d45-e0f8-f1e2-a68cbca67665"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "31215b79-4579-b51e-36ae-9db5be942e2f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    22.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "31215b79-4579-b51e-36ae-9db5be942e2f"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "feacaa01-d35e-3457-976f-e614ba301e92",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    27.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "feacaa01-d35e-3457-976f-e614ba301e92"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "88fcc407-b03e-db2f-54d9-eb408536ac2b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    7.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "88fcc407-b03e-db2f-54d9-eb408536ac2b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bdfc4178-fa9f-0221-e8ed-0cd200b0a5c0",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    37.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bdfc4178-fa9f-0221-e8ed-0cd200b0a5c0"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f3756d9-9e18-4b4b-6841-29428f203e97",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    -12.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -30.0
+                ],
+                "scale": [
+                    2.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9f3756d9-9e18-4b4b-6841-29428f203e97"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4abfb955-7a18-03fa-532f-273ab5da4329"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c1677e59-147b-650b-f8ff-9d3719d1d3d4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    62.5,
+                    -2.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c1677e59-147b-650b-f8ff-9d3719d1d3d4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9701df99-1794-4e13-855c-fad225bf3d79",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    67.5,
+                    -2.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9701df99-1794-4e13-855c-fad225bf3d79"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0516376a-dc1d-29ec-3e65-87f4a0c7b8da",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    52.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0516376a-dc1d-29ec-3e65-87f4a0c7b8da"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2153a683-7a6a-5f48-1731-9a9fda3dd312",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    47.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2153a683-7a6a-5f48-1731-9a9fda3dd312"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fa1df4b3-6338-2012-a859-743c825b205b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    57.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fa1df4b3-6338-2012-a859-743c825b205b"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "681235b1-2755-e0be-96f2-9e11386c878d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    62.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "681235b1-2755-e0be-96f2-9e11386c878d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "47b7bfd4-78c2-d0da-797a-471ded492068",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    37.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "47b7bfd4-78c2-d0da-797a-471ded492068"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c7e79cf3-3e7f-eaa2-2068-9359226a1d58",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    32.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c7e79cf3-3e7f-eaa2-2068-9359226a1d58"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8aae0f6a-732b-3f0b-8d03-6597c90823d8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    42.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8aae0f6a-732b-3f0b-8d03-6597c90823d8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f735c06-66be-a95f-c790-8cb267bbb3d3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    57.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4f735c06-66be-a95f-c790-8cb267bbb3d3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6160d9bf-9f8c-9586-b458-38dbad5982f1",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    47.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6160d9bf-9f8c-9586-b458-38dbad5982f1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2b3d054d-a677-55d6-fcce-eb2c0962cf16",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    67.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2b3d054d-a677-55d6-fcce-eb2c0962cf16"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49e7a7e3-01a3-6ba2-0571-e7781d92803e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    62.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49e7a7e3-01a3-6ba2-0571-e7781d92803e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d4d0e5c7-9b82-06a8-88eb-e8e456bc6ccf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b9c6a53e-5ccc-a296-27ed-a5bd19cf7015",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    72.5,
+                    -2.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b9c6a53e-5ccc-a296-27ed-a5bd19cf7015"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a5af7f4a-4afe-4e23-e5bf-2d7f3c2d787d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    77.5,
+                    -2.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a5af7f4a-4afe-4e23-e5bf-2d7f3c2d787d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "080b142a-0a3c-4417-3583-b641aebcaa73",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    67.5,
+                    -2.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "080b142a-0a3c-4417-3583-b641aebcaa73"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "13f703e6-9806-b2ce-0de9-58532113cd24",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    22.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "13f703e6-9806-b2ce-0de9-58532113cd24"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f9ceaaa4-5aa6-211e-47d0-815436998798",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f9ceaaa4-5aa6-211e-47d0-815436998798"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1a788e3a-6b46-a27a-a6c9-3477f4fe9cee",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    2.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1a788e3a-6b46-a27a-a6c9-3477f4fe9cee"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bab2fd0d-ccd4-dea2-1025-8e22be32e340",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    12.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bab2fd0d-ccd4-dea2-1025-8e22be32e340"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8cc3b752-c4b3-38ec-08ad-80ec25689800",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    7.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8cc3b752-c4b3-38ec-08ad-80ec25689800"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "adf2813d-ef67-d2ea-184a-ba279dfdf9b1",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    12.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "adf2813d-ef67-d2ea-184a-ba279dfdf9b1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3f5cc0b7-e640-45f7-c457-aee5346d1e52",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    42.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3f5cc0b7-e640-45f7-c457-aee5346d1e52"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ebbad559-2eba-5853-bbef-608e7bdb0a92"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40403992-6e9e-ccac-8fab-bedd164d6a66",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -79.5,
+                    82.0,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "40403992-6e9e-ccac-8fab-bedd164d6a66"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f1e6e727-976a-0e7b-ecb6-f4a998cad682",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    17.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f1e6e727-976a-0e7b-ecb6-f4a998cad682"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0147f595-61e3-9589-7582-d6b4b7808b30",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    27.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0147f595-61e3-9589-7582-d6b4b7808b30"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cc448de0-98b2-ddd5-be3e-58ba85c2339e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -88.0,
+                    37.5,
+                    -1.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cc448de0-98b2-ddd5-be3e-58ba85c2339e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "02a6762b-47d9-57a7-513a-0d2661a43835",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -30.4503,
+                    31.3645,
+                    -2.226
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "02a6762b-47d9-57a7-513a-0d2661a43835"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "11716d9a-39d1-8bf5-53dc-7b025e73b2d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d3018b6-90d7-d556-6cb1-4a4141fb19f3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    -2.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3d3018b6-90d7-d556-6cb1-4a4141fb19f3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7adeda3a-1d0d-4647-d253-5eba482404e9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -96.5,
+                    -7.5,
+                    -3.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7adeda3a-1d0d-4647-d253-5eba482404e9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7816de4-33a9-cb6a-a0a2-72d34e7f0d5a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    -17.5,
+                    -0.5
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a7816de4-33a9-cb6a-a0a2-72d34e7f0d5a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e380492-5b04-e034-9512-ba3661b055c7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0e0f6ab0-d51d-b992-349d-de2011a3a384",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    -22.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0e0f6ab0-d51d-b992-349d-de2011a3a384"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7196e739-1d42-26f6-9802-eaf674063268",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -71.0,
+                    -12.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7196e739-1d42-26f6-9802-eaf674063268"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e6267be-b49a-23c1-e913-d2726c114806"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e29cf01e-8d6f-8932-544b-0e0aebdcd267",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.5,
+                    -7.5,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -30.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e29cf01e-8d6f-8932-544b-0e0aebdcd267"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4abfb955-7a18-03fa-532f-273ab5da4329"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f2528e65-a54d-4a0b-275c-2c4913c11575",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    -27.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f2528e65-a54d-4a0b-275c-2c4913c11575"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6186ea2e-7f30-2a9d-c31a-ffa01c1c06e8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -62.5,
+                    -17.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6186ea2e-7f30-2a9d-c31a-ffa01c1c06e8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a9f5a3f7-f8d6-91e7-e5e7-b698010a2924",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    -22.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a9f5a3f7-f8d6-91e7-e5e7-b698010a2924"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a8bfa4fd-6474-e4a2-f78c-4058bc36eca4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    -32.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a8bfa4fd-6474-e4a2-f78c-4058bc36eca4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5fc06ac7-e3df-8a57-57be-07c0f4f00218",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -54.0,
+                    -42.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5fc06ac7-e3df-8a57-57be-07c0f4f00218"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "23306405-b439-22ac-d381-ef4febc0579d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    -27.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "23306405-b439-22ac-d381-ef4febc0579d"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "25c10174-e635-fd2b-d639-b2449c2399a3",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    -37.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "25c10174-e635-fd2b-d639-b2449c2399a3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0167c4a5-bf2d-2cea-39f8-8a1d162f9818",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -45.5,
+                    -17.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0167c4a5-bf2d-2cea-39f8-8a1d162f9818"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3ec434d6-21fb-70b9-2cc0-039b57d453b1",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    -22.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3ec434d6-21fb-70b9-2cc0-039b57d453b1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d232575a-898c-cb84-d429-28a75d8975a7",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    -17.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d232575a-898c-cb84-d429-28a75d8975a7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "969e90ea-d96a-263f-6959-ccb32c07547a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -22.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "969e90ea-d96a-263f-6959-ccb32c07547a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a65ab4c4-9870-7ceb-c65f-72e22e2aba08",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    -22.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a65ab4c4-9870-7ceb-c65f-72e22e2aba08"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d3d694aa-527d-053b-bebc-e366486777d2",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -37.0,
+                    -32.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3d694aa-527d-053b-bebc-e366486777d2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e179a11e-cb98-e366-978c-6c3872858174",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -28.5,
+                    -27.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e179a11e-cb98-e366-978c-6c3872858174"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7b1897b4-e336-4ea6-93fc-00087d02f9b9",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.5,
+                    -27.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7b1897b4-e336-4ea6-93fc-00087d02f9b9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e56404f4-0734-caf7-ad92-172c7908a925",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -20.0,
+                    -32.5,
+                    -1.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e56404f4-0734-caf7-ad92-172c7908a925"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "291e057d-193c-9c17-10b4-b16f0e62f7a4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.0,
+                    17.5,
+                    -1.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -179.9994
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "291e057d-193c-9c17-10b4-b16f0e62f7a4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "450569f8-a9eb-e710-153f-5f279d9b711a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0c494600-2987-bd36-d0e7-4f6edcbc22fc",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.5,
+                    7.5,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0c494600-2987-bd36-d0e7-4f6edcbc22fc"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b086f871-d3e5-999a-5afd-2d56f8bc8c72",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    22.5,
+                    -17.0,
+                    0.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b086f871-d3e5-999a-5afd-2d56f8bc8c72"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ebbad559-2eba-5853-bbef-608e7bdb0a92"
+            }
+        },
+        {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
             "instanceGuid": "9a60247c-d325-cd66-0433-b0f896515003",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
@@ -68,14 +4856,15 @@
                     "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
-                    ]
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
                 }
             ]
         },
@@ -100,6 +4889,62 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "37000929-8ed6-4f15-a9ec-4f7d15302f02"
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "f6a76e2d-0048-33da-5854-22c8ca01bbc6",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -45.0121,
+                    0.0,
+                    0.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": "#f8edd4",
+                "cascades": 4,
+                "intensity": 13.0,
+                "cascade_distances": [
+                    6.0,
+                    12.0,
+                    32.0,
+                    60.0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
                 }
             ]
         },
@@ -135,14 +4980,15 @@
                     "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Environment Light"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
                 }
             ]
         },
@@ -175,14 +5021,15 @@
                     "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
-                    ]
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
                 }
             ]
         }
