@@ -15,7 +15,11 @@
     "efac0fe8-4775-4ca4-84ad-4ff12bf0e860": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/HexMix.scene.nasset"
+        "path": "Assets/HexMix.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":512.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-16.20016098022461,91.53824615478516,6.999889373779297],\"rotation\":[-29.867633819580079,1.7944087460364245e-7,132.09991455078126]}"
+        }
     },
     "guid": "3c77511d-b721-da0e-ccb5-ac51b4c89cc0",
     "imported_assets": [
