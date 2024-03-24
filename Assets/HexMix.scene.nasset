@@ -10,6 +10,44 @@
         "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":512.0}",
         "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-16.20016098022461,91.53824615478516,6.999889373779297],\"rotation\":[-29.867633819580079,1.7944087460364245e-7,132.09991455078126]}"
     },
+    "data_components": [
+        {
+            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
+            "camera_settings": {
+                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
+                "9ae0e145-86b4-4e47-afda-697bbd008922": {
+                    "fieldOfView": 60.0,
+                    "nearPlane": 0.1,
+                    "farPlane": 1024.0
+                }
+            },
+            "transform": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "grid_settings": {
+                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
+                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
+                    "transform": {
+                        "scale": [
+                            -1.0
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "typeGuid": "7cf4ed1d-8eaf-485d-a41a-10ec7756ff41"
+        }
+    ],
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4864,9 +4902,9 @@
                     2.9937
                 ],
                 "rotation": [
-                    -45.0121,
-                    0.0,
-                    0.0
+                    -35,
+                    -5.0,
+                    40.0
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
