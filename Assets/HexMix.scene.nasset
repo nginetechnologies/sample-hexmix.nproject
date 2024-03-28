@@ -16,7 +16,7 @@
             "instanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8",
             "data_components": [
                 {
-                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
                 },
                 {
                     "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
@@ -25,24 +25,24 @@
                     "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
                 },
                 {
-                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                },
+                {
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
                 },
                 {
-                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
-                },
-                {
                     "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
                     "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
                 },
                 {
-                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
-                },
-                {
-                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
                 }
             ]
         },
@@ -64,15 +64,15 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "78f0eba8-8ebc-9727-8eda-69fad590fb23"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Synthwave Vibe"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78f0eba8-8ebc-9727-8eda-69fad590fb23"
                 }
             ]
         },
@@ -88,12 +88,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b4c1fc47-950a-2e34-3825-e9238ebb4c68"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b4c1fc47-950a-2e34-3825-e9238ebb4c68"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -117,12 +117,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "93674f59-f5f9-1465-1001-0b6f18007c30"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Sharp Runoff"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "93674f59-f5f9-1465-1001-0b6f18007c30"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -146,12 +146,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a73a9dfa-bd3a-899b-45fa-856cfa651b51"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Sharp"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a73a9dfa-bd3a-899b-45fa-856cfa651b51"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -175,12 +175,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2bedf132-e4a7-b3a8-0f3a-9e80eaeed775"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2bedf132-e4a7-b3a8-0f3a-9e80eaeed775"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -204,12 +204,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ad56ba01-e08e-e9be-fda4-3a671c997b3e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ad56ba01-e08e-e9be-fda4-3a671c997b3e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -233,12 +233,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "79d47362-ad9a-ecaf-3fc5-004f03910ff5"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Bridge Ramp"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "79d47362-ad9a-ecaf-3fc5-004f03910ff5"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -262,12 +262,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "749a7148-90e7-4c3e-d8aa-883fcd1cdff1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Bridge"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "749a7148-90e7-4c3e-d8aa-883fcd1cdff1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -286,17 +286,17 @@
                 "rotation": [
                     0,
                     0,
-                    179.9995
+                    179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "81c917fe-1741-7123-561d-0b1a99a5d4b0"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "81c917fe-1741-7123-561d-0b1a99a5d4b0"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -320,12 +320,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "95774031-5a9e-c039-1f22-fb0c3898db30"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Sharp"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "95774031-5a9e-c039-1f22-fb0c3898db30"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -349,12 +349,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7a92fac8-e8ab-b785-47d5-3d04371257b1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7a92fac8-e8ab-b785-47d5-3d04371257b1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -378,12 +378,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "02f95700-af71-04f3-65f6-8125f9ae0677"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Inner Sharp"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "02f95700-af71-04f3-65f6-8125f9ae0677"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -407,12 +407,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "271a0ca8-0129-504e-ae59-aa201aa8a251"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Inner Gentle"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "271a0ca8-0129-504e-ae59-aa201aa8a251"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -431,12 +431,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "568ed56b-4877-90b0-f0d8-9f52be3e613b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "568ed56b-4877-90b0-f0d8-9f52be3e613b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -455,12 +455,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7584ce63-54d5-545a-4fc9-4e2aec3a43c0"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Decal Finish Line"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7584ce63-54d5-545a-4fc9-4e2aec3a43c0"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -479,12 +479,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "158cb901-eeb5-3326-fe19-45d2b0e65b54"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Decal Checkpoint"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "158cb901-eeb5-3326-fe19-45d2b0e65b54"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -503,12 +503,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d7e7701e-9fbc-9909-9abd-93f20495fe0e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d7e7701e-9fbc-9909-9abd-93f20495fe0e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -532,12 +532,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d55c794f-0d34-8924-cc3c-3a6b2a0e0ccb"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Sharp Runoff.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d55c794f-0d34-8924-cc3c-3a6b2a0e0ccb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -561,12 +561,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "39dcaf23-46a9-6cb0-7712-5611b49f2027"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "39dcaf23-46a9-6cb0-7712-5611b49f2027"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -585,12 +585,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9abfc9c7-7692-8806-0a50-553ab08c39ac"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9abfc9c7-7692-8806-0a50-553ab08c39ac"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -609,17 +609,17 @@
                 "rotation": [
                     0,
                     0,
-                    121.1455
+                    121.1454
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f95194b-3426-4fb8-8048-c0cc09aa23b9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2f95194b-3426-4fb8-8048-c0cc09aa23b9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -638,12 +638,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d76b9e47-90cb-6b2f-434c-8e561448283d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d76b9e47-90cb-6b2f-434c-8e561448283d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -667,12 +667,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f383e797-e7fc-f113-6b1f-49e822e2a494"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f383e797-e7fc-f113-6b1f-49e822e2a494"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -696,12 +696,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a0796a9e-48d1-811f-360f-141276b37d5e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Sharp.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a0796a9e-48d1-811f-360f-141276b37d5e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -725,12 +725,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "70d6f82e-0559-d2df-7a08-ff68efbb9683"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "70d6f82e-0559-d2df-7a08-ff68efbb9683"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -749,17 +749,17 @@
                 "rotation": [
                     0,
                     0,
-                    179.9995
+                    179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1250d196-ab0d-b493-b23c-b2c28f063481"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1250d196-ab0d-b493-b23c-b2c28f063481"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -778,17 +778,17 @@
                 "rotation": [
                     0,
                     0,
-                    179.9995
+                    179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "622ee8b8-ac13-ec22-dec9-f25b32d2f6fe"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "622ee8b8-ac13-ec22-dec9-f25b32d2f6fe"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -807,12 +807,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a2bf0bd2-62e3-c4cb-f6da-f9efc4728333"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a2bf0bd2-62e3-c4cb-f6da-f9efc4728333"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -836,12 +836,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d2bc9143-614a-580c-946d-a13feac6babf"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d2bc9143-614a-580c-946d-a13feac6babf"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -860,12 +860,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6b9ff595-912a-cb1c-f9e7-9e3ac292f9ab"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6b9ff595-912a-cb1c-f9e7-9e3ac292f9ab"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -884,12 +884,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "19d8eced-7746-2263-296b-efa7e16839da"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "19d8eced-7746-2263-296b-efa7e16839da"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -908,12 +908,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "274dd7d7-f91f-96a6-0cfb-62a7f150bb0d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "274dd7d7-f91f-96a6-0cfb-62a7f150bb0d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -932,12 +932,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2d1a379f-31f8-070b-ab09-c498dec63db9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2d1a379f-31f8-070b-ab09-c498dec63db9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -956,12 +956,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "efb8c672-513d-6bbd-bc09-d917fba377e3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "efb8c672-513d-6bbd-bc09-d917fba377e3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -980,12 +980,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "333e619d-cd41-1971-177b-9ed0d9412188"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "333e619d-cd41-1971-177b-9ed0d9412188"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1009,12 +1009,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "53fa36b7-4ee2-8970-859c-aece78111149"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.006"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "53fa36b7-4ee2-8970-859c-aece78111149"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1033,17 +1033,17 @@
                 "rotation": [
                     0,
                     0,
-                    59.0175
+                    59.0174
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "15fffbdf-cebd-b1d7-b0c1-d784b0765381"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.007"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "15fffbdf-cebd-b1d7-b0c1-d784b0765381"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1067,12 +1067,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d8e0e27c-71d6-5efe-2b6a-221970eac838"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Bridge.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d8e0e27c-71d6-5efe-2b6a-221970eac838"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1096,12 +1096,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "63222c2a-e972-f2b8-6f90-92e833fbf40b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Bridge Ramp.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "63222c2a-e972-f2b8-6f90-92e833fbf40b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1125,12 +1125,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9e7803be-c988-c967-bb34-0b2fd8d420ab"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9e7803be-c988-c967-bb34-0b2fd8d420ab"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1149,12 +1149,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "74f78867-175e-257b-f2b5-6825b5a4d1e9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.006"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "74f78867-175e-257b-f2b5-6825b5a4d1e9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1173,12 +1173,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e593d6e4-9b6f-5905-a2a4-e28bdfcd5f84"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.007"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e593d6e4-9b6f-5905-a2a4-e28bdfcd5f84"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1197,12 +1197,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8f9f19c5-e288-37cc-f5e9-6e18e0edaef2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.008"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8f9f19c5-e288-37cc-f5e9-6e18e0edaef2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1226,12 +1226,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a13d3687-7d55-9d97-3fab-1335314380f0"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a13d3687-7d55-9d97-3fab-1335314380f0"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1250,17 +1250,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3b750e9d-167e-7551-ca8d-eea13266a369"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3b750e9d-167e-7551-ca8d-eea13266a369"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1279,12 +1279,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "82133c79-39b6-e8a1-e0a7-880a2e25beac"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.009"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "82133c79-39b6-e8a1-e0a7-880a2e25beac"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1303,12 +1303,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6f7055df-e45d-b177-9224-355a832b81c3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.010"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6f7055df-e45d-b177-9224-355a832b81c3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1332,12 +1332,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1153e27e-3477-982b-a17a-baf5fa5ab667"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1153e27e-3477-982b-a17a-baf5fa5ab667"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1361,12 +1361,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "49903295-9eb8-01b5-c2d9-9245faca4dc1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49903295-9eb8-01b5-c2d9-9245faca4dc1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1385,12 +1385,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2123664e-3e0f-d0c3-2f2e-b68b4e5ced3f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2123664e-3e0f-d0c3-2f2e-b68b4e5ced3f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1409,12 +1409,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5091a691-8e8e-1d8c-eb6a-8481cc1a30ad"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.011"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5091a691-8e8e-1d8c-eb6a-8481cc1a30ad"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1433,12 +1433,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d2da2601-8802-44e9-acdd-974bc612b9c7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.012"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d2da2601-8802-44e9-acdd-974bc612b9c7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1457,12 +1457,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6d3a48a9-454c-2316-984e-694f9bb69597"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.013"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6d3a48a9-454c-2316-984e-694f9bb69597"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1481,17 +1481,17 @@
                 "rotation": [
                     0,
                     0,
-                    179.9995
+                    179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "48feaa8c-919e-24bd-77a9-2dd55eae76ba"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "48feaa8c-919e-24bd-77a9-2dd55eae76ba"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1515,12 +1515,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4a7a0e5e-b28f-0200-956a-105f96efbf8b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.008"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4a7a0e5e-b28f-0200-956a-105f96efbf8b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1544,12 +1544,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "847a867a-4c0d-3a0f-df8f-f5fa975438a7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "847a867a-4c0d-3a0f-df8f-f5fa975438a7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1573,12 +1573,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "20f4da4d-e1f7-92a0-e490-fdb7675f53d9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.006"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "20f4da4d-e1f7-92a0-e490-fdb7675f53d9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1602,12 +1602,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "904a6559-29fb-d8c2-85a3-4aeeae8fbfa5"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "904a6559-29fb-d8c2-85a3-4aeeae8fbfa5"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1631,12 +1631,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b92a0dc9-277c-7581-3a47-f1e92bda5680"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Inner Gentle.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b92a0dc9-277c-7581-3a47-f1e92bda5680"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1655,12 +1655,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0d9a7679-c869-cc07-ae93-753446292445"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.014"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0d9a7679-c869-cc07-ae93-753446292445"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1679,12 +1679,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "04d0c108-8532-68bb-d840-1289d73df670"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.015"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "04d0c108-8532-68bb-d840-1289d73df670"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1703,12 +1703,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e1aa888a-5eba-7d8f-c6e7-80e634aaa34c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.016"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e1aa888a-5eba-7d8f-c6e7-80e634aaa34c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1732,12 +1732,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9c1cc9e4-fd95-f600-0e1e-3a32e1d91640"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.007"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9c1cc9e4-fd95-f600-0e1e-3a32e1d91640"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1761,12 +1761,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "525660ee-9337-cc2c-8341-3e03e7890a39"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "525660ee-9337-cc2c-8341-3e03e7890a39"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1785,12 +1785,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0e6a17f0-db04-3548-23fb-2bb62388a295"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.017"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0e6a17f0-db04-3548-23fb-2bb62388a295"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1809,12 +1809,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "193e9192-6056-fd0c-00c3-11006dc6cfdb"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.018"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "193e9192-6056-fd0c-00c3-11006dc6cfdb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1833,17 +1833,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "85a440a7-3dce-14c9-7ee7-cc30523f08b5"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.006"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "85a440a7-3dce-14c9-7ee7-cc30523f08b5"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1862,12 +1862,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "573b5ba5-595d-a9cc-a8c2-025fec53dcab"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.007"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "573b5ba5-595d-a9cc-a8c2-025fec53dcab"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1886,17 +1886,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3b086b59-dd27-742b-26ba-9331142a89d9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.008"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3b086b59-dd27-742b-26ba-9331142a89d9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1915,12 +1915,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a96537e8-9a9a-bcea-3ea5-c8283abd722a"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.009"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a96537e8-9a9a-bcea-3ea5-c8283abd722a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1939,12 +1939,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "037f7374-55be-c11f-4543-cc9dac4fb171"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.010"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "037f7374-55be-c11f-4543-cc9dac4fb171"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1963,12 +1963,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a60f45d4-a57c-dec6-9100-f6d3e0615b14"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.019"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a60f45d4-a57c-dec6-9100-f6d3e0615b14"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -1992,12 +1992,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9b3f51f5-8673-b4d7-58c7-74a3b90671ab"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.006"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9b3f51f5-8673-b4d7-58c7-74a3b90671ab"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2021,12 +2021,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f75ae147-9dc5-4fcb-14fb-f9cb798df1e4"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.007"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f75ae147-9dc5-4fcb-14fb-f9cb798df1e4"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2050,12 +2050,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "546bdcf9-92ba-c34e-3b95-4d799024c721"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.008"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "546bdcf9-92ba-c34e-3b95-4d799024c721"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2079,12 +2079,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0fe7a0d9-fce6-120a-27d9-3d9b5b46b2f2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.009"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0fe7a0d9-fce6-120a-27d9-3d9b5b46b2f2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2103,12 +2103,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b88c7a5f-a39b-2499-71a1-3654142dc5d5"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.020"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b88c7a5f-a39b-2499-71a1-3654142dc5d5"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2127,12 +2127,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2f3848fb-8364-6bec-068a-f95dd947d207"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.021"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2f3848fb-8364-6bec-068a-f95dd947d207"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2151,12 +2151,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3f816184-a19d-369f-9cb6-73f3f33b0cfd"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Decal Checkpoint.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3f816184-a19d-369f-9cb6-73f3f33b0cfd"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2175,12 +2175,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9e552829-1c13-9ece-a4a3-b8725448f5c8"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.011"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9e552829-1c13-9ece-a4a3-b8725448f5c8"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2199,17 +2199,17 @@
                 "rotation": [
                     0,
                     0,
-                    -120.3646
+                    -120.3645
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4b2a6007-6158-5c8b-afd4-eabac256e868"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.009"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4b2a6007-6158-5c8b-afd4-eabac256e868"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2228,12 +2228,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b90a3d63-ff50-0d0b-c85a-0f2d598efa74"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.022"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b90a3d63-ff50-0d0b-c85a-0f2d598efa74"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2252,12 +2252,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "93b38afe-5254-6f12-ecc9-17a5d3ef9c1c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.008"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "93b38afe-5254-6f12-ecc9-17a5d3ef9c1c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2276,12 +2276,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "57acacb7-e820-bffb-9610-5e1aa8c4e89c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Inner Sharp.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "57acacb7-e820-bffb-9610-5e1aa8c4e89c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2305,12 +2305,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "fd16314c-99a1-8fc1-0012-06148c01145c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.012"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fd16314c-99a1-8fc1-0012-06148c01145c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2334,12 +2334,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9ba3d8ba-2810-8187-22f5-1b4718262f57"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.010"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9ba3d8ba-2810-8187-22f5-1b4718262f57"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2358,12 +2358,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "98148867-f8f6-dd5f-8fcd-d1014e77e54f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.013"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "98148867-f8f6-dd5f-8fcd-d1014e77e54f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2382,12 +2382,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9250fd4a-9c65-7720-1425-518d86b7c13d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.014"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9250fd4a-9c65-7720-1425-518d86b7c13d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2406,12 +2406,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3cf48197-e12a-7d90-1e93-6aa521493ac7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.023"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3cf48197-e12a-7d90-1e93-6aa521493ac7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2430,12 +2430,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "61076b86-ed2d-55ca-d4d0-97e91a193b29"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.024"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "61076b86-ed2d-55ca-d4d0-97e91a193b29"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2454,12 +2454,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8a343617-229c-70ef-6dce-1fe98d63c273"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.025"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8a343617-229c-70ef-6dce-1fe98d63c273"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2478,17 +2478,17 @@
                 "rotation": [
                     0,
                     0,
-                    -120.3646
+                    -120.3645
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4077c0ba-fadf-b48d-8e37-abaffb7013f3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.011"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4077c0ba-fadf-b48d-8e37-abaffb7013f3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2507,12 +2507,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f094894b-5de8-5fb0-c4d6-f4525d4ef059"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.015"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f094894b-5de8-5fb0-c4d6-f4525d4ef059"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2531,12 +2531,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "db1b4704-f4a1-1b93-50a4-6b7ef1d3903f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Sharp.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "db1b4704-f4a1-1b93-50a4-6b7ef1d3903f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2555,12 +2555,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b5d1f0c4-77dc-bd3c-f608-02b98a0c206d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.010"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b5d1f0c4-77dc-bd3c-f608-02b98a0c206d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2579,12 +2579,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "024dc4e7-a993-dc6d-b7fb-23a65eec7eb2"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.011"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "024dc4e7-a993-dc6d-b7fb-23a65eec7eb2"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2603,12 +2603,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2c21483a-f345-1b0c-b2b5-8c73bdc95980"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.012"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2c21483a-f345-1b0c-b2b5-8c73bdc95980"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2627,12 +2627,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "065591a9-2942-ceb9-62c4-40c9d84cc131"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.013"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "065591a9-2942-ceb9-62c4-40c9d84cc131"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2651,12 +2651,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bc5f4225-7ef7-aa23-6aa0-b817fd62364a"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.014"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bc5f4225-7ef7-aa23-6aa0-b817fd62364a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2675,12 +2675,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6745d36f-d7e3-7cd2-dc8c-197929709ee8"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.026"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6745d36f-d7e3-7cd2-dc8c-197929709ee8"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2699,12 +2699,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "835427b5-0d02-2442-c6ac-a7d8acafccc5"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.027"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "835427b5-0d02-2442-c6ac-a7d8acafccc5"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2728,12 +2728,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "50677007-2549-da7e-8e10-fc80477f8304"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.028"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "50677007-2549-da7e-8e10-fc80477f8304"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2757,12 +2757,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f99125f9-c622-7202-2f47-435a5a326b27"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.029"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f99125f9-c622-7202-2f47-435a5a326b27"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2786,12 +2786,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ac437829-5cb9-052c-e1ce-d41885187063"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.030"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ac437829-5cb9-052c-e1ce-d41885187063"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2815,12 +2815,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6ecf76cd-4a32-3628-2e58-a1c0b61209c3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.031"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6ecf76cd-4a32-3628-2e58-a1c0b61209c3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2844,12 +2844,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1e3fe9f8-880c-21e5-fc6d-e3bc555df163"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.032"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1e3fe9f8-880c-21e5-fc6d-e3bc555df163"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2868,12 +2868,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "42da8ea8-8ab6-bb85-faab-32495b70f925"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.012"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "42da8ea8-8ab6-bb85-faab-32495b70f925"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2897,12 +2897,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d2050d0e-2bee-1515-b992-b143c1d6e659"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.016"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d2050d0e-2bee-1515-b992-b143c1d6e659"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2926,12 +2926,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a1a64ee4-1942-b334-0f9f-fc4e6e99ced0"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.033"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a1a64ee4-1942-b334-0f9f-fc4e6e99ced0"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2955,12 +2955,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "130d06ea-2d39-9897-16cc-131c7b4ebbb9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.034"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "130d06ea-2d39-9897-16cc-131c7b4ebbb9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -2984,12 +2984,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9ed66e82-6983-697d-ad03-f0db0fa90a83"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Sharp.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9ed66e82-6983-697d-ad03-f0db0fa90a83"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3008,12 +3008,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b3cac35b-0d64-eb53-f885-ab33981855f6"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.035"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b3cac35b-0d64-eb53-f885-ab33981855f6"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3032,12 +3032,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "375904ff-472d-e65a-1389-360e0d924a35"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.036"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "375904ff-472d-e65a-1389-360e0d924a35"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3061,12 +3061,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7293bf6d-c3e7-bbae-339b-da5750bdcfeb"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.037"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7293bf6d-c3e7-bbae-339b-da5750bdcfeb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3090,12 +3090,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "93efb6a1-0d7d-a331-33db-8d867892b6d6"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.017"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "93efb6a1-0d7d-a331-33db-8d867892b6d6"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3119,12 +3119,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "496349d9-71ea-20d3-9355-1304f0c3327d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.018"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "496349d9-71ea-20d3-9355-1304f0c3327d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3143,17 +3143,17 @@
                 "rotation": [
                     0,
                     0,
-                    -120.3646
+                    -120.3645
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "91b8224e-9dd5-e0cc-fb3e-cfcab997b1d7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.013"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "91b8224e-9dd5-e0cc-fb3e-cfcab997b1d7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3177,12 +3177,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e5568f4f-85ac-7a9c-913b-05f0cbef7147"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.014"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e5568f4f-85ac-7a9c-913b-05f0cbef7147"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3201,12 +3201,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59063268-e05c-5c75-feca-43af81134197"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.038"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59063268-e05c-5c75-feca-43af81134197"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3225,17 +3225,17 @@
                 "rotation": [
                     0,
                     0,
-                    179.9995
+                    179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3986d04f-ab55-9067-550f-f690193ff294"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Gentle.009"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3986d04f-ab55-9067-550f-f690193ff294"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3254,17 +3254,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4017b71a-377a-1c85-017b-765a141347ff"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.015"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4017b71a-377a-1c85-017b-765a141347ff"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3288,12 +3288,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "50f7a2b4-c077-922e-4542-f07abe449116"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.015"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "50f7a2b4-c077-922e-4542-f07abe449116"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3317,12 +3317,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9b52c025-fd79-dccc-2213-25c5ec033755"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Curve Gentle Runoff.016"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9b52c025-fd79-dccc-2213-25c5ec033755"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3346,12 +3346,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e6c6da42-97c0-7799-0476-193e906915d1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.019"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e6c6da42-97c0-7799-0476-193e906915d1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3375,12 +3375,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3839c04e-0d23-a334-0d5d-0e1ef9f7f54b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Track Flat Straight.020"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3839c04e-0d23-a334-0d5d-0e1ef9f7f54b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3404,12 +3404,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2a6a8286-2c7b-c9ed-0924-d885680c1551"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Decal Checkpoint.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2a6a8286-2c7b-c9ed-0924-d885680c1551"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3433,12 +3433,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bacdc69b-2123-e9ff-4b71-ed4c0ee79f3c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.016"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bacdc69b-2123-e9ff-4b71-ed4c0ee79f3c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3462,12 +3462,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "58e8f4ba-9258-277d-fa6d-1989f54bd768"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.017"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "58e8f4ba-9258-277d-fa6d-1989f54bd768"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3491,12 +3491,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4b3e5eb9-5ea1-6077-b0ac-d181c7013e00"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.018"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4b3e5eb9-5ea1-6077-b0ac-d181c7013e00"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3520,12 +3520,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "86873260-2551-5040-b37e-24da9c9133b9"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.019"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "86873260-2551-5040-b37e-24da9c9133b9"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3549,12 +3549,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "204c4621-cf8a-7af6-ea00-776f265ef020"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Straight.020"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "204c4621-cf8a-7af6-ea00-776f265ef020"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3578,12 +3578,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "334d75d3-9f27-7d59-8ec8-1cc83731a2bf"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.039"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "334d75d3-9f27-7d59-8ec8-1cc83731a2bf"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3607,12 +3607,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "05dc2f7a-0220-90b7-d1e3-7566a60695aa"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.040"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "05dc2f7a-0220-90b7-d1e3-7566a60695aa"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3636,12 +3636,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8e4cd2ee-38f2-e8ca-bc8e-1e8a0aab3e74"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.041"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8e4cd2ee-38f2-e8ca-bc8e-1e8a0aab3e74"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3665,12 +3665,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ce3d1c06-387a-f1ba-a49e-e995ad8c6c47"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.042"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ce3d1c06-387a-f1ba-a49e-e995ad8c6c47"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3694,12 +3694,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6d9e0b6c-bdd7-1fd7-f79f-2fb9fe52100d"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.043"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6d9e0b6c-bdd7-1fd7-f79f-2fb9fe52100d"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3723,12 +3723,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c13afa2b-e2cc-9bed-7d15-88dfb1207408"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.044"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c13afa2b-e2cc-9bed-7d15-88dfb1207408"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3752,12 +3752,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "69823011-fc37-41ec-14e7-dfab53450663"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.045"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "69823011-fc37-41ec-14e7-dfab53450663"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3781,12 +3781,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1656babc-3837-1a76-7316-081c4b6b4ede"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Flat.046"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1656babc-3837-1a76-7316-081c4b6b4ede"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3810,12 +3810,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c2c782d2-deaf-abdf-f749-498220962363"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Terrain Grass Hill Curve Outer Sharp.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c2c782d2-deaf-abdf-f749-498220962363"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3834,12 +3834,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6c1b1d49-53c7-b9fd-7b1b-4a2c5cdbbbc6"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water Rocks"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6c1b1d49-53c7-b9fd-7b1b-4a2c5cdbbbc6"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3858,12 +3858,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9e59e3dd-fe9d-1536-4dcc-d6f4812768ca"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9e59e3dd-fe9d-1536-4dcc-d6f4812768ca"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3887,12 +3887,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a95dbd58-28e0-f9f1-2982-3e7777db760b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Stone Mountain"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a95dbd58-28e0-f9f1-2982-3e7777db760b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3911,12 +3911,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "49edc2ad-2fa0-7698-a51d-09cf5f4cf6d3"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Hill"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "49edc2ad-2fa0-7698-a51d-09cf5f4cf6d3"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3935,12 +3935,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "55d3875b-bfbe-5d58-7b0b-8ee200fd2c34"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "55d3875b-bfbe-5d58-7b0b-8ee200fd2c34"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3959,12 +3959,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "eb87bac6-d30c-02c7-f6b9-9b6ac4d8c50f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Dirt Lumber"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "eb87bac6-d30c-02c7-f6b9-9b6ac4d8c50f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -3983,12 +3983,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "268b39ef-1996-a71f-f9b9-76fd6b4176a7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Dirt"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "268b39ef-1996-a71f-f9b9-76fd6b4176a7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4007,17 +4007,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ba8ccffa-43c9-9d38-bda0-7b28d673ce7b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Village"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ba8ccffa-43c9-9d38-bda0-7b28d673ce7b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4036,12 +4036,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b9c89bfb-e55e-d234-f727-65b741e3454b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Tower"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b9c89bfb-e55e-d234-f727-65b741e3454b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4060,12 +4060,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d6fe242e-0185-e5c2-8aee-a44f561bb168"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Sheep"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d6fe242e-0185-e5c2-8aee-a44f561bb168"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4084,17 +4084,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0af9b15c-d5ef-784d-44cd-5a19f930124e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Mine"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0af9b15c-d5ef-784d-44cd-5a19f930124e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4113,12 +4113,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c73bfb77-b622-2e5d-ebde-859374887a0b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Mill"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c73bfb77-b622-2e5d-ebde-859374887a0b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4137,12 +4137,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "38ecdd2b-5d1c-1a99-82b3-e8fd5e56ac05"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Market"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "38ecdd2b-5d1c-1a99-82b3-e8fd5e56ac05"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4161,12 +4161,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "19c1d039-1285-6b96-4162-4da93a92e2e0"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Farm"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "19c1d039-1285-6b96-4162-4da93a92e2e0"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4185,12 +4185,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3908b61e-55d8-c373-8577-e185e6019727"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Dock"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3908b61e-55d8-c373-8577-e185e6019727"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4209,12 +4209,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "083fe340-f893-1b62-608d-c838ebf1e472"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Castle"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "083fe340-f893-1b62-608d-c838ebf1e472"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4233,12 +4233,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cbd3fe4c-e4e6-36f7-13d7-3d27ddcb2146"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Cabin"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cbd3fe4c-e4e6-36f7-13d7-3d27ddcb2146"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4262,12 +4262,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d3cd94d1-84ab-4354-405c-2ad6ee03f1d0"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Boat"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3cd94d1-84ab-4354-405c-2ad6ee03f1d0"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4286,12 +4286,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3056afd5-06d2-d574-26d6-fec4644d0772"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3056afd5-06d2-d574-26d6-fec4644d0772"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4310,12 +4310,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "790d2e99-1d1b-c10c-3ba5-c34ee330d9ba"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "790d2e99-1d1b-c10c-3ba5-c34ee330d9ba"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4334,12 +4334,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5c4daed3-814e-577e-1002-dc4b6623403a"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5c4daed3-814e-577e-1002-dc4b6623403a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4358,12 +4358,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "07f725a7-bbbd-4ca3-28c8-f1f40a1f4d91"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "07f725a7-bbbd-4ca3-28c8-f1f40a1f4d91"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4382,12 +4382,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "901ac7cf-bce3-0b08-8394-b3c36df7d651"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "901ac7cf-bce3-0b08-8394-b3c36df7d651"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4406,12 +4406,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1bc0852b-6120-e89e-e590-bf9917253892"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.006"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1bc0852b-6120-e89e-e590-bf9917253892"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4438,12 +4438,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6ee2cba6-6e41-2071-0ea7-db6a2b4d127e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Stone Mountain.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6ee2cba6-6e41-2071-0ea7-db6a2b4d127e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4462,12 +4462,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7044fb42-fe70-fcbd-700f-ed0882e01781"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.007"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7044fb42-fe70-fcbd-700f-ed0882e01781"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4486,12 +4486,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9d20762f-792e-e5ce-1b4b-3060c14cabfb"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.008"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9d20762f-792e-e5ce-1b4b-3060c14cabfb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4510,12 +4510,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c83f376d-4bc8-5f7d-9827-a7b583f79425"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.009"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c83f376d-4bc8-5f7d-9827-a7b583f79425"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4534,12 +4534,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0359a55a-ae30-da5d-1617-56975fc543e8"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.010"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0359a55a-ae30-da5d-1617-56975fc543e8"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4558,12 +4558,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cc0a98a3-4dc9-9d17-1af5-6e154a0f81d1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.011"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cc0a98a3-4dc9-9d17-1af5-6e154a0f81d1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4582,12 +4582,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1715e699-a205-fda7-8c7c-092f30c44f1c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.012"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1715e699-a205-fda7-8c7c-092f30c44f1c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4606,12 +4606,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "16ea20bd-bacb-efb6-f393-583fc3c22897"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "16ea20bd-bacb-efb6-f393-583fc3c22897"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4630,12 +4630,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d7ccd324-5aba-c33b-eb31-534d08964e22"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d7ccd324-5aba-c33b-eb31-534d08964e22"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4654,12 +4654,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f7c5559c-1e24-29be-42ed-7526abec6127"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.013"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f7c5559c-1e24-29be-42ed-7526abec6127"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4678,12 +4678,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "887e45b8-be7d-6335-86c5-445fc2fe8f09"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.014"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "887e45b8-be7d-6335-86c5-445fc2fe8f09"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4702,12 +4702,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c6e08e2b-f239-2354-4014-7229ca91374c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.015"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c6e08e2b-f239-2354-4014-7229ca91374c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4726,12 +4726,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f24172a4-1978-7836-ca14-c3d3813ea535"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.003"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f24172a4-1978-7836-ca14-c3d3813ea535"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4750,12 +4750,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "562be894-cb21-4739-aa4a-769fe5679185"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Market.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "562be894-cb21-4739-aa4a-769fe5679185"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4774,12 +4774,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bd4d6c59-4be8-6bb6-bf64-d556f7f92ece"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.016"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bd4d6c59-4be8-6bb6-bf64-d556f7f92ece"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4798,12 +4798,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a867b0ad-e0ff-da9b-4557-e87c9d66219b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.017"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a867b0ad-e0ff-da9b-4557-e87c9d66219b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4822,12 +4822,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "417bebad-f183-fbcd-5574-b1f6851e5de4"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.018"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "417bebad-f183-fbcd-5574-b1f6851e5de4"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4846,12 +4846,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f0a94568-2b74-968c-455c-b3b00e81c60f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.004"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f0a94568-2b74-968c-455c-b3b00e81c60f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4870,12 +4870,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a43fee51-a79f-21ac-4464-3a89c4cf5658"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.005"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a43fee51-a79f-21ac-4464-3a89c4cf5658"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4894,12 +4894,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f91415f5-507b-00f1-0e7d-133b5e867d81"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.019"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f91415f5-507b-00f1-0e7d-133b5e867d81"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4918,12 +4918,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "be36603f-02ca-2668-b034-e8f027bafaef"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.020"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "be36603f-02ca-2668-b034-e8f027bafaef"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4942,12 +4942,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7df7eba3-a94a-fca7-4af0-49192a74e835"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.021"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7df7eba3-a94a-fca7-4af0-49192a74e835"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4966,12 +4966,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9b1df5fa-be5f-4733-7fdb-235961bc7066"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.022"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9b1df5fa-be5f-4733-7fdb-235961bc7066"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -4990,12 +4990,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "072515c4-4328-0ee7-c39c-74ba50df949c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Tower.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "072515c4-4328-0ee7-c39c-74ba50df949c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5014,12 +5014,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8dbcfeb0-723a-7e58-451f-a4a2bebe2492"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.006"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8dbcfeb0-723a-7e58-451f-a4a2bebe2492"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5038,12 +5038,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d7d2ca9b-0eaa-b9a1-9766-2a5d5a1a0fef"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.023"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d7d2ca9b-0eaa-b9a1-9766-2a5d5a1a0fef"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5062,12 +5062,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "52e7af24-8d99-5b7c-9ac0-f1857222f4ab"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.024"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "52e7af24-8d99-5b7c-9ac0-f1857222f4ab"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5086,12 +5086,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "79f660c9-e2e6-6959-8668-ca900bb80e14"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.025"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "79f660c9-e2e6-6959-8668-ca900bb80e14"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5110,12 +5110,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "287ce601-989c-2828-450a-6ed83af6c2cb"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ocean"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "287ce601-989c-2828-450a-6ed83af6c2cb"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5134,12 +5134,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "53e06573-ebec-a9fb-4b47-9a66482b463f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.007"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "53e06573-ebec-a9fb-4b47-9a66482b463f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5158,12 +5158,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bd4ea0f5-1d50-40aa-af94-77125618a85b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.008"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bd4ea0f5-1d50-40aa-af94-77125618a85b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5182,12 +5182,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "964b7ac5-ef1e-a0f7-d2e2-b5b3dbdf9073"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Dirt.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "964b7ac5-ef1e-a0f7-d2e2-b5b3dbdf9073"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5206,12 +5206,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cd75a455-f844-9732-f795-463c653f6c3e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.009"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cd75a455-f844-9732-f795-463c653f6c3e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5230,12 +5230,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cb9412a0-2d61-91a0-5a67-242adf2b5920"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Dirt Lumber.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cb9412a0-2d61-91a0-5a67-242adf2b5920"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5259,12 +5259,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "93d60076-b34c-1fcc-cbe6-156c78046c6c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Stone Mountain.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "93d60076-b34c-1fcc-cbe6-156c78046c6c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5283,12 +5283,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "83b63095-9619-f107-bd2d-14d31a623a4e"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.026"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "83b63095-9619-f107-bd2d-14d31a623a4e"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5307,12 +5307,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "af694554-996c-ecee-bb03-a626f3f2356f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.027"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "af694554-996c-ecee-bb03-a626f3f2356f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5331,12 +5331,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1895930b-26bd-17f1-0a2b-1a5d902ad216"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.028"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1895930b-26bd-17f1-0a2b-1a5d902ad216"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5355,12 +5355,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4b75d99d-efe5-ed66-1a77-3b5ca9d9170b"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.029"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4b75d99d-efe5-ed66-1a77-3b5ca9d9170b"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5379,12 +5379,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5e424ac4-9d28-f686-01e1-8f88269840d0"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.030"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5e424ac4-9d28-f686-01e1-8f88269840d0"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5403,12 +5403,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c861ac10-6767-bfd2-9a51-ca7f49882ed1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.031"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c861ac10-6767-bfd2-9a51-ca7f49882ed1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5427,12 +5427,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "001a54cc-4677-72a2-6f32-f49f73a18da7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.032"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "001a54cc-4677-72a2-6f32-f49f73a18da7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5451,12 +5451,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "fa30b7b7-0734-9a8d-4a98-61671aea4cba"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.033"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "fa30b7b7-0734-9a8d-4a98-61671aea4cba"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5475,12 +5475,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6559bcd8-fbc9-a0bd-0977-b981b9cc8025"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.034"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6559bcd8-fbc9-a0bd-0977-b981b9cc8025"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5499,12 +5499,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "26535ec2-72f2-b0ed-abf1-4f6d8ab6afa1"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.035"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "26535ec2-72f2-b0ed-abf1-4f6d8ab6afa1"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5523,12 +5523,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0d0e6ca7-9f45-db6a-ba05-7325414a6ec7"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.010"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0d0e6ca7-9f45-db6a-ba05-7325414a6ec7"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5547,12 +5547,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3131021a-d8a8-cea3-0d24-9da7a1711bf4"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.011"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "3131021a-d8a8-cea3-0d24-9da7a1711bf4"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5571,12 +5571,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a21c376b-4dd0-2474-b81e-2f2bc351227c"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.036"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a21c376b-4dd0-2474-b81e-2f2bc351227c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5595,12 +5595,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "04c73998-9756-45ba-8339-d8b5b7934ddd"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.037"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "04c73998-9756-45ba-8339-d8b5b7934ddd"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5619,12 +5619,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f2147d94-96f4-2d8b-4a0e-13919e3efb82"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.038"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f2147d94-96f4-2d8b-4a0e-13919e3efb82"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5643,12 +5643,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0aa6ae41-a304-ef6f-ad8d-d278e3e331ca"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Water.039"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0aa6ae41-a304-ef6f-ad8d-d278e3e331ca"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5667,17 +5667,17 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9995
+                    -179.9994
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cc3544d2-a923-590f-ee0a-0bdeceb06c38"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Village.001"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cc3544d2-a923-590f-ee0a-0bdeceb06c38"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5696,12 +5696,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bf39f2de-ab77-ed01-f7fa-ffc1ee51e716"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Grass Forest.012"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bf39f2de-ab77-ed01-f7fa-ffc1ee51e716"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5720,12 +5720,12 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "31fe664a-1ce7-036b-07a2-0ca056ae7642"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Building Tower.002"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "31fe664a-1ce7-036b-07a2-0ca056ae7642"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5747,10 +5747,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4b6ab931-fc71-4e73-711d-2d719c8024e5"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
@@ -5759,6 +5755,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4b6ab931-fc71-4e73-711d-2d719c8024e5"
                 }
             ]
         },
@@ -5777,15 +5777,15 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "18346473-407b-41da-9738-296707036b30"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "18346473-407b-41da-9738-296707036b30"
                 }
             ]
         },
@@ -5799,9 +5799,9 @@
                     2.9937
                 ],
                 "rotation": [
-                    -34.9997,
-                    -4.9998,
-                    39.9996
+                    -34.9996,
+                    -4.9997,
+                    39.9995
                 ]
             },
             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -5823,10 +5823,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
@@ -5835,6 +5831,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
@@ -5866,10 +5866,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
@@ -5878,6 +5874,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Environment Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
@@ -5906,10 +5906,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
@@ -5918,6 +5914,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Skysphere"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 }
             ]
         },
@@ -5931,19 +5931,19 @@
                     0
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
-                    89.9997
+                    89.9996
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "10cf552d-e72a-9cf9-2205-b6086cbe147f"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Start Finish"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "10cf552d-e72a-9cf9-2205-b6086cbe147f"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5960,19 +5960,19 @@
                     0
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
-                    -89.9997
+                    -89.9996
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "75c8c950-136b-f5bb-ff98-74981ce1a327"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "75c8c950-136b-f5bb-ff98-74981ce1a327"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -5984,24 +5984,24 @@
             "instanceGuid": "b1e271d6-b99e-9b05-b4f8-d9c1fa000f58",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -75.3825,
+                    -75.3824,
                     -85.8572,
                     0
                 ],
                 "rotation": [
                     90,
                     0,
-                    29.8424
+                    29.8423
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b1e271d6-b99e-9b05-b4f8-d9c1fa000f58"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b1e271d6-b99e-9b05-b4f8-d9c1fa000f58"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -6018,52 +6018,23 @@
                     -0.0305
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
-                    89.9996
+                    89.9995
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "001c5bc7-4370-d9b5-35c5-5add5cea234a"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint 3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "001c5bc7-4370-d9b5-35c5-5add5cea234a"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "6d3aae09-e755-6b52-5d64-20238244c6eb"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "3c74c696-2b4d-5187-b517-ce1b391bb9f9",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -20.6898,
-                    81.3285,
-                    0
-                ],
-                "rotation": [
-                    0,
-                    0,
-                    90.4981
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3c74c696-2b4d-5187-b517-ce1b391bb9f9"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SK AI Racer"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a0154277-609f-55e0-44f1-1436e0fa39fc"
             }
         },
         {
@@ -6083,15 +6054,15 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2603ee22-e73f-0b8c-6acf-517f3795681c"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "HazardSensor"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "2603ee22-e73f-0b8c-6acf-517f3795681c"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -6104,13 +6075,13 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -74.9832,
-                    -85.4459,
+                    -85.4458,
                     0.9832
                 ],
                 "rotation": [
                     0,
                     0,
-                    119.7136
+                    119.7135
                 ],
                 "scale": [
                     9.8353,
@@ -6120,15 +6091,30 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "79ac81cf-5a3c-6284-afb8-f3d0cf1409aa"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint 1"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "79ac81cf-5a3c-6284-afb8-f3d0cf1409aa"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+                    "instanceGuid": "e4d73845-1e9f-05e3-e8a6-d8d90f935d53",
+                    "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                        "audio_asset": "68e5ceab-e07a-29ad-cdd3-8b3f2840e962"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "a3fd2166-d6d8-4210-a034-fac76ae97220"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -6152,15 +6138,30 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cc4b64fb-30f0-5991-4f35-5ce2f4f93d5a"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cc4b64fb-30f0-5991-4f35-5ce2f4f93d5a"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+                    "instanceGuid": "0d845e18-63aa-fc4b-7242-917fc84fb85e",
+                    "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                        "audio_asset": "68e5ceab-e07a-29ad-cdd3-8b3f2840e962"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "a3fd2166-d6d8-4210-a034-fac76ae97220"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -6184,15 +6185,30 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "047599aa-2866-890a-b043-8faf9250a8a6"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint 3"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "047599aa-2866-890a-b043-8faf9250a8a6"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+                    "instanceGuid": "1455fc52-d108-5bca-6bd9-2a2037d28819",
+                    "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                        "audio_asset": "68e5ceab-e07a-29ad-cdd3-8b3f2840e962"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "a3fd2166-d6d8-4210-a034-fac76ae97220"
+                        }
+                    ]
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -6209,7 +6225,7 @@
                     4.9671
                 ],
                 "rotation": [
-                    -89.9998,
+                    -89.9997,
                     0,
                     0
                 ],
@@ -6274,15 +6290,15 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4f64f836-a82c-760a-1056-67894c58de5a"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spline"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4f64f836-a82c-760a-1056-67894c58de5a"
                 }
             ]
         },
@@ -6293,7 +6309,7 @@
                 "position": [
                     -22.7436,
                     57.9356,
-                    0.0998
+                    0.0997
                 ],
                 "scale": [
                     10.2608,
@@ -6303,22 +6319,22 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "ef986f60-a987-4434-9e88-254094e36e9c",
-                    "receiver": {
-                        "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                        "instanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
-                    }
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "PressurePlateSensor"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "962de26d-7855-6c14-133b-567a7416c7e4"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "PressurePlateSensor"
+                    "typeGuid": "ef986f60-a987-4434-9e88-254094e36e9c",
+                    "receiver": {
+                        "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                        "instanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
+                    }
                 }
             ],
             "children": [
@@ -6330,15 +6346,15 @@
                     },
                     "data_components": [
                         {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "39943747-9858-4c17-af7a-8b6179a3e408"
+                        },
+                        {
                             "typeGuid": "ef986f60-a987-4434-9e88-254094e36e9c",
                             "receiver": {
                                 "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
                                 "instanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
                             }
-                        },
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "39943747-9858-4c17-af7a-8b6179a3e408"
                         }
                     ]
                 }
@@ -6357,7 +6373,7 @@
                     5
                 ],
                 "scale": [
-                    12.2892,
+                    12.2891,
                     1,
                     2.2462
                 ],
@@ -6368,13 +6384,17 @@
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "FinishSensor"
+                },
+                {
                     "typeGuid": "c489ab90-32b2-4d08-a12b-0b515249ee80",
                     "activation": 0,
                     "action": 1
                 },
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "FinishSensor"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
                 },
                 {
                     "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
@@ -6394,10 +6414,6 @@
                     "instanceGuid": "aea39a21-a743-eb81-095c-17e7abd82a24",
                     "data_components": [
                         {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "28928227-1f0b-42ca-8cba-a781aadc876c"
-                        },
-                        {
                             "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
                             "type": 1,
                             "layer": 1,
@@ -6405,6 +6421,10 @@
                             "maximumAngularVelocity": 2699.9997,
                             "overriddenMass": 0,
                             "gravityScale": 1
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "28928227-1f0b-42ca-8cba-a781aadc876c"
                         }
                     ]
                 }
