@@ -47,6 +47,35 @@
             ]
         },
         {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3,
+                    26,
+                    15
+                ]
+            },
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "f70f8212-eec6-b4d8-1323-f2caf98053d5",
+                "looping": true,
+                "volume": 0.3,
+                "outer_radius": 300
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Synthwave Vibe"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "78f0eba8-8ebc-9727-8eda-69fad590fb23"
+                }
+            ]
+        },
+        {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "b4c1fc47-950a-2e34-3825-e9238ebb4c68",
             "data_components": [
