@@ -16,16 +16,23 @@
             "instanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8",
             "data_components": [
                 {
-                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                },
+                {
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
                 },
                 {
                     "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
                 },
                 {
-                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
                 },
                 {
                     "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                },
+                {
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
                 },
                 {
                     "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
@@ -36,13 +43,6 @@
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
-                },
-                {
-                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
-                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
-                },
-                {
-                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
                 }
             ]
         },
@@ -64,11 +64,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Synthwave Vibe"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -286,7 +286,7 @@
                 "rotation": [
                     0,
                     0,
-                    179.9994
+                    179.9993
                 ]
             },
             "data_components": [
@@ -575,30 +575,6 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9abfc9c7-7692-8806-0a50-553ab08c39ac",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -23,
-                    45,
-                    0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Track Flat Curve Gentle.001"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9abfc9c7-7692-8806-0a50-553ab08c39ac"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "1e267847-4589-9d71-85a9-c23b92c59737"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "2f95194b-3426-4fb8-8048-c0cc09aa23b9",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
@@ -609,7 +585,7 @@
                 "rotation": [
                     0,
                     0,
-                    121.1454
+                    121.1453
                 ]
             },
             "data_components": [
@@ -749,7 +725,7 @@
                 "rotation": [
                     0,
                     0,
-                    179.9994
+                    179.9993
                 ]
             },
             "data_components": [
@@ -764,59 +740,6 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "43671f1d-7524-237d-9eca-5a16e6d1be43"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "622ee8b8-ac13-ec22-dec9-f25b32d2f6fe",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -40,
-                    35,
-                    0
-                ],
-                "rotation": [
-                    0,
-                    0,
-                    179.9994
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Track Flat Curve Gentle.002"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "622ee8b8-ac13-ec22-dec9-f25b32d2f6fe"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "1e267847-4589-9d71-85a9-c23b92c59737"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a2bf0bd2-62e3-c4cb-f6da-f9efc4728333",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -40,
-                    15,
-                    0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Track Flat Straight.004"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a2bf0bd2-62e3-c4cb-f6da-f9efc4728333"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "3fce41bd-4a32-3ea2-9c0d-a8c77f633d78"
             }
         },
         {
@@ -1033,7 +956,7 @@
                 "rotation": [
                     0,
                     0,
-                    59.0174
+                    59.0173
                 ]
             },
             "data_components": [
@@ -1250,7 +1173,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -1481,7 +1404,7 @@
                 "rotation": [
                     0,
                     0,
-                    179.9994
+                    179.9993
                 ]
             },
             "data_components": [
@@ -1833,7 +1756,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -1886,7 +1809,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -2199,7 +2122,7 @@
                 "rotation": [
                     0,
                     0,
-                    -120.3645
+                    -120.3644
                 ]
             },
             "data_components": [
@@ -2478,7 +2401,7 @@
                 "rotation": [
                     0,
                     0,
-                    -120.3645
+                    -120.3644
                 ]
             },
             "data_components": [
@@ -3143,7 +3066,7 @@
                 "rotation": [
                     0,
                     0,
-                    -120.3645
+                    -120.3644
                 ]
             },
             "data_components": [
@@ -3225,7 +3148,7 @@
                 "rotation": [
                     0,
                     0,
-                    179.9994
+                    179.9993
                 ]
             },
             "data_components": [
@@ -3254,7 +3177,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -4007,7 +3930,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -4084,7 +4007,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -5667,7 +5590,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -5747,14 +5670,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -5777,11 +5700,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Directional Gravity"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -5823,14 +5746,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -5866,14 +5789,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -5906,14 +5829,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -5931,9 +5854,9 @@
                     0
                 ],
                 "rotation": [
-                    89.9996,
+                    89.9995,
                     0,
-                    89.9996
+                    89.9995
                 ]
             },
             "data_components": [
@@ -5960,9 +5883,9 @@
                     0
                 ],
                 "rotation": [
-                    89.9996,
+                    89.9995,
                     0,
-                    -89.9996
+                    -89.9995
                 ]
             },
             "data_components": [
@@ -5991,7 +5914,7 @@
                 "rotation": [
                     90,
                     0,
-                    29.8423
+                    29.8422
                 ]
             },
             "data_components": [
@@ -6018,9 +5941,9 @@
                     -0.0305
                 ],
                 "rotation": [
-                    89.9996,
+                    89.9995,
                     0,
-                    89.9995
+                    89.9994
                 ]
             },
             "data_components": [
@@ -6044,7 +5967,7 @@
                 "position": [
                     -88.2804,
                     48.9151,
-                    -4.9435
+                    -4.7923
                 ],
                 "scale": [
                     359.4793,
@@ -6054,11 +5977,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "HazardSensor"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -6091,11 +6014,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint 1"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -6138,11 +6061,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Checkpoint 2"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -6170,231 +6093,24 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "047599aa-2866-890a-b043-8faf9250a8a6",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -39.8003,
-                    -8.4905,
-                    0.9832
-                ],
-                "scale": [
-                    9.8353,
-                    1,
-                    5.9882
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Checkpoint 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "047599aa-2866-890a-b043-8faf9250a8a6"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
-                    "instanceGuid": "1455fc52-d108-5bca-6bd9-2a2037d28819",
-                    "97f5d985-8b59-4864-82d8-0856b85b8c68": {
-                        "audio_asset": "68e5ceab-e07a-29ad-cdd3-8b3f2840e962"
-                    },
-                    "data_components": [
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "a3fd2166-d6d8-4210-a034-fac76ae97220"
-                        }
-                    ]
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "84be036b-30a5-4fc8-958e-451daf55b057"
-            }
-        },
-        {
-            "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
-            "instanceGuid": "4f64f836-a82c-760a-1056-67894c58de5a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -23.7595,
-                    84.4263,
-                    4.9671
-                ],
-                "rotation": [
-                    -89.9997,
-                    0,
-                    0
-                ],
-                "referenced": true
-            },
-            "304ec37e-bce4-48b6-9c2e-6108738270ff": {
-                "spline": {
-                    "points": [
-                        {
-                            "position": [
-                                0
-                            ],
-                            "backward": [
-                                0
-                            ],
-                            "forward": [
-                                0,
-                                1.3678,
-                                0
-                            ],
-                            "up": [
-                                0,
-                                0,
-                                1
-                            ],
-                            "is_bezier": true
-                        },
-                        {
-                            "position": [
-                                0,
-                                4.1036,
-                                0
-                            ],
-                            "backward": [
-                                0,
-                                2.7357,
-                                0
-                            ],
-                            "forward": [
-                                0,
-                                4.1036,
-                                0
-                            ],
-                            "up": [
-                                0,
-                                0,
-                                1
-                            ],
-                            "is_bezier": true
-                        }
-                    ],
-                    "is_closed": false
-                },
-                "bounds": {
-                    "minimum": [
-                        -0.001
-                    ],
-                    "maximum": [
-                        0.001
-                    ]
-                }
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4f64f836-a82c-760a-1056-67894c58de5a"
-                }
-            ]
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "962de26d-7855-6c14-133b-567a7416c7e4",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -22.7436,
-                    57.9356,
-                    0.0997
-                ],
-                "scale": [
-                    10.2608,
-                    1,
-                    1
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "PressurePlateSensor"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "962de26d-7855-6c14-133b-567a7416c7e4"
-                },
-                {
-                    "typeGuid": "ef986f60-a987-4434-9e88-254094e36e9c",
-                    "receiver": {
-                        "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                        "instanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
-                    }
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "f65e6195-b9f8-4422-90d9-fea73cbb80c7",
-                    "instanceGuid": "1b83f99f-3daf-7117-d28e-6034ac1d7be5",
-                    "f65e6195-b9f8-4422-90d9-fea73cbb80c7": {
-                        "mass_threshold": 5
-                    },
-                    "data_components": [
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "39943747-9858-4c17-af7a-8b6179a3e408"
-                        },
-                        {
-                            "typeGuid": "ef986f60-a987-4434-9e88-254094e36e9c",
-                            "receiver": {
-                                "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                                "instanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
-                            }
-                        }
-                    ]
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "9f651169-3782-4ba1-b714-e75811e0d65c"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -23,
-                    86,
-                    5
+                    -40,
+                    -8.5256,
+                    3
                 ],
                 "scale": [
-                    12.2891,
+                    12.289,
                     1,
-                    2.2462
+                    8.8596
                 ],
                 "referenced": true
             },
             "data_components": [
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "FinishSensor"
-                },
-                {
-                    "typeGuid": "c489ab90-32b2-4d08-a12b-0b515249ee80",
-                    "activation": 0,
-                    "action": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
                 },
                 {
                     "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
@@ -6406,6 +6122,18 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 0
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "c489ab90-32b2-4d08-a12b-0b515249ee80",
+                    "activation": 0,
+                    "action": 1
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "119502ae-01ba-c9c2-6a80-ce3226be7087"
                 }
             ],
             "children": [
@@ -6431,6 +6159,83 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "23b28532-67f0-448b-b395-709c233dfedd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f4aafbc4-062a-4dee-adae-b5aa9f7f045c",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -23,
+                    45,
+                    -2
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    -179.9993
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Mine 2"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0af9b15c-d5ef-784d-44cd-5a19f930124e"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aa73ad67-77fd-4c05-2836-2c033827936d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "64cc52a7-b564-cb7a-4ef2-15905cff621a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40,
+                    15,
+                    0
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass Forest 13"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0d0e6ca7-9f45-db6a-ba05-7325414a6ec7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2cedfafb-833f-0d93-155b-badbb6b38b31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fa47aff4-7876-c996-c633-b791f882666b",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40,
+                    35,
+                    -2
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Water 40"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5c4daed3-814e-577e-1002-dc4b6623403a"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ded8f898-5058-3896-050a-6891a272d138"
             }
         }
     ],
